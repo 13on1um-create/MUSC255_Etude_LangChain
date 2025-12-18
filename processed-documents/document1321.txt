@@ -1,0 +1,2397 @@
+Gardner-Webb University
+Digital Commons @ Gardner-Webb University
+
+The Etude Magazine: 1883-1957                             John R. Dover Memorial Library
+
+11-1-1888
+
+Volume 06, Number 11 (November 1888)
+
+Theodore Presser
+
+
+Follow this and additional works at: https://digitalcommons.gardner-webb.edu/etude
+
+[icon] Part of the Composition Commons, Ethnomusicology Commons, Fine Arts Commons, History Commons, Liturgy and Worship Commons, Music Education Commons, Musicology Commons, Music Pedagogy Commons, Music Performance Commons, Music Practice Commons, and the Music Theory Commons
+
+
+Recommended Citation
+Presser, Theodore (ed.). The Etude. Vol. 06, No. 11. Philadelphia: Theodore Presser Company, November 1888. The Etude Magazine: 1883-1957. Compiled by Pamela R. Dennis. Digital Commons @ Gardner-Webb University, Boiling Springs, NC. https://digitalcommons.gardner-webb.edu/etude/322
+
+
+This Book is brought to you for free and open access by the John R. Dover Memorial Library at Digital Commons @ Gardner-Webb University. It has been accepted for inclusion in The Etude Magazine: 1883-1957 by an authorized administrator of Digital Commons @ Gardner-Webb University. For more information, please contact digitalcommons@gardner-webb.edu.
+
+Description of non-textual images:
+- A small circular multicolored icon appears immediately before the words "Part of the ...". It looks like a ring or circle composed of several colored segments (including blue, orange, green and possibly red) with a small blue location-pin or ribbon-like element overlapping its lower-left side.
+- The page layout includes a thin horizontal divider line beneath the main header and another horizontal line above the "Recommended Citation" section. The overall page is a white document with generous white space and blue-colored links/headings. No photographic images or logos other than the small multicolored circular icon are present.
+THE ETUDE.
+
+VOL. VI. PHILADELPHIA, PA., NOVEMBER, 1888. NO. 11.
+
+THE ETUDE.
+PHILADELPHIA, PA., NOVEMBER, 1888.
+
+A Monthly Publication for the Teachers and Students of Music.
+
+Subscription Rates, $1.50 Per Year (payable in advance).
+Single Copy, 15 cents.
+
+The courts have decided that all subscribers to newspapers are held responsible until arrearages are paid and their papers are ordered to be discontinued.
+
+THEODORE PRESSER,
+1704 Chestnut Street, PHILADELPHIA, PA.
+
+EDITORS.
+W. S. B. MATTHEWS, JOHN S. VAN CLEVE,
+JOHN C. FILLMORE, E. E. AMLER,
+Miss HELEN TROTTER.
+
+Managing Editor, THEODORE PRESSER.
+
+(Entered at Philadelphia Post Office as Second-Class Matter.)
+
+[For The Etude.]
+
+IMPROVEMENTS NEEDED IN WRITING MUSIC.
+
+THE GRACE NOTE; THE MORDENT; THE SIGNATURE; THE ACCIDENTAL; THE HALF AND QUARTER REST; THE REPETITION SIGN; THE NOMENCLATURE OF MUSICAL EXPRESSION.
+
+THE GRACE NOTE (ACCACCATURA).
+
+The grace note in our present sheet music is found under three different forms: without a tie (small un-tied grace note), with the following tie (grace note tied to the principal note), and with the tie preceding it (tie before the grace note). The latter form occurs but rarely. It would be desirable that composers could come to an agreement. The first two forms are frequently used without discrimination. The tie indicates the time when to strike the grace note. When following the grace note, it should be borrowed from the following principal note; when preceding it, it should be taken from the preceding one. The majority of players, however, borrow the time from the preceding principal note. Therefore, I propose that in that case authors should use it without any tie. If the grace note should be played like in classic music of the eighteenth century, by borrowing the time from the following note, the tie should be attached to the right-hand side of the grace note. The crossing of the grace note should never be omitted, as otherwise it becomes a long grace note, an appoggiatura.
+
+THE MORDENT.
+
+This sign formerly used to be written in two different ways (upper and lower mordent). One way the player commenced with the upper note, the other way with the lower. This discrimination has been entirely lost in the course of time. It is to be wished that it could be restored by using again both forms.
+
+THE SIGNATURE.
+
+Whenever the signature changes, it is customary to cancel first the old signature by naturals before indicating the new. Although correct, it takes up space which could be saved. The double bar is sufficient to attract the attention of the prima vista player, and the new signature is all that is needed. It is easier to read (music types shown) after a part in E flat than (other music types); or, worse still, as I found it often, (other forms). The reader knows the key by the shape, not by the number. The signature of E and A flat major form a square, that of E flat and A a triangle. The form is also like a triangle, and may be easily mistaken for E flat. If, however, the signature should change to C major or A minor, it would be necessary to place the naturals before the double bar: (naturals).
+
+THE ACCIDENTAL.
+
+Here the universal rule, and the only rule, is, that the power of an accidental does not extend beyond the measure in which it occurs. This is all sufficient for the ready reader. But to please careless readers, we often find the same note repeated in the next measure, which, by that rule, is restored to its diatonic form again, furnished with an accidental to fear the player might forget the rule. This is embarrassing to a good player and spoiling an indifferent one. Even if the last note in a measure which has been raised or lowered by an accidental is tied to the same note (the first) in the next measure, the accidental should be repeated and not, as is frequently done, omitted (on the strength of the tie). The only exception that may be tolerated is when in the same measure the same letter occurs in a higher or lower octave of which one has been raised or lowered—that the one, the diatonic letter, may also be provided with the respective natural, flat or sharp according to the signature.
+
+THE HALF AND QUARTER REST.
+
+There exists an incongruity in the use of the whole and half rest. While the whole rest may be used for the length of the whole measure and thus stand not only for four quarters in common time, but for six in 6/8, or for three in 3/4 time, the half rest does not share this privilege. Why does not it? The quarter rest has, in course of time, assumed three very different forms, viz., the old squiggled form, the modern vertical form, and another form; all three are used in modern publications. Why not agree on one? I should propose the modern vertical form. The old squiggle is not characteristic enough to discern it from the eighth rest; the other is more convenient for manuscript. The dot should never be used after rests.
+
+THE REPETITION SIGN.
+
+There are two forms used indiscriminately. They should not be: the double bar with dots should be used for the repetition of the whole measure; the sign with dots over a bar should be for that of a single group of notes.
+
+THE NOMENCLATURE OF SIGNS OF EXPRESSION.
+
+The Latin language has been made the medium of communication by the ancient masters. The French, then the English, have been the language for expression musical sentiment has been the Italian: p., f., cresc., dim., Allegro, Adagio, etc. But nowadays we meet with French, German, and English words in connection with the Italian. Can that be called an improvement? Can we dispense with the Italian and use only French, German and English words? Or would you have the Italians in their publications use the Italian exclusively, the Germans the German and the French the French? I think the Italian would be sufficient for all purposes in an art which is eminently cosmopolitan! That these remarks will apply to only a few pages or to the translations of the texts in songs is obvious. E. von Adlung.
+
+MUSICAL ITEMS.
+
+(All matter intended for this Department should be addressed to Mrs. HELEN TROTTER, Box 291, New York City.)
+
+HOME.
+
+The first grand concert of the American Conservatory of Music, Chicago, was given on October 19th. Among the performers were some of the faculty of the Conservatory, among them Prof. Spanuth; now, Mr. (names listed), Liszt's E-flat concerto, “Nocturne,” Chopin, and Weitzel, Strauss-Tausig.
+
+The Music Conservatory will open in Norfolk, Va., on October 24th.
+
+A Spanish opera troupe, organized in Madrid, will appear at San Francisco in January, 1889, and will travel nearly through the country. Mr. Marcus R. H. Henry manages the company.
+
+Moritz Rosenthal, the Viennese pianist, will make his American debut in Boston on Nov. 17. Mr. Rosen? will play Liszt's “Don Juan” Fantasia, and Walter Damrosch is to conduct the orchestra.
+
+On Wednesday, October 17th, the New York musical season was inaugurated by the performance of Wagner's “Lohengrin.” The audience was large and enthusiastic.
+
+The Metropolitan Opera House (N. Y.) German Opera Company will give a two weeks' season both in Boston and Chicago, one week of opera in Philadelphia, and four performances in Milwaukee.
+
+The colossal harp—a harp with a keyboard—is to be used in London orchestras next winter.
+
+The first of a series of subscription concerts given by Anton Seidl will take place at Steinway Hall, New York, on Nov. 10th. Master Fred. Reisseler (Reiseler?), the young Vienna violinist, will then make his American debut in the Mendelssohn Concerto, and Conrad Akin(?) will play the “Wanderer” Fantasie, Schubert-Liszt.
+
+The historical and analytical notes explanatory of the programmes of the Boston Symphony Orchestra this season are compiled by Mr. G. H. Wilson, the musical editor of the Boston Traveler.
+
+Mrs. Sara Hershey Eddy's professional pupils appeared at a concert in Chicago on October 9th. They were assisted by a number of organists, pupils of Mr. Clarence Eddy, the well-known organist.
+
+FOREIGN.
+
+Mme. Patti has again settled down in her beautiful villa, Craig-y-Nos, and is entertaining numerous guests, among them Miss Kitty Berger, the artist.
+
+The Berlin Richard Wagner Society will give a grand Wagner concert at the Philharmonic on Nov. 5th.
+
+Prof. Carl (?) will conduct the orchestra, and Mme. Malten and Marianne Brandt will be the soloists.
+
+Rubinstein is composing another opera. He calls it “A Walpurgis Night.”
+
+Rubinstein will give lectures this winter, as usual, on pianoforte literature, illustrated by musical examples of the styles of the various masters.
+
+Paris is to have a Wagner theatre. Lamoureux, after having considered the plan with the Wagner family during his visit to Bayreuth last summer, intends building a theatre (seating about 4,000 persons) upon a site near Paris. It will be a private theatre and devoted exclusively to the performance of Wagner's works, including portions of “Parsifal.” This work also has been translated into French by Victor Wilder.
+
+An opera by Rubinstein, “The Merchant of Moscow,” written in 1880, will be given for the first time at St. Petersburg next winter.
+
+The pianist Sally Liebling opened a new Conservatory of Music in Berlin on Oct. 21st. Instruction will be given in all branches of music.
+
+Tito Ricordi, the celebrated Italian music publisher, died at Milan in September, aged 77 years.
+
+Edward Rennert, the violinist, residing at Cape Town, South Africa, is in excellent health and doing well.
+
+John Ella, the well-known English musician, died in London on Oct. 4th, aged about eighty-two years. He was the inventor of the analytical programme.
+
+The Dresden Philharmonic Concerts will this year be conducted by Mr. Richard Strauss. The orchestra, instead of Louis Nicolò, as heretofore, will, the above artists will alternate with conductor Schroeder, of Hamburg.
+
+Sophie Menter will make a tour of France, England and Russia next winter, and will also play in Germany.
+
+The symphony concerts are to be given at Berlin under Hans von Bülow's direction. Also a series under Arthur Nikisch, at which Mmes. Menter, Espriolf, and Mantén and Arthur Friedheim will be heard as soloists.
+
+The greatest living pianist, Rubinstein, said to be about two years ago, that “nature had done so much for him, that, in comparison, practice is not to be thought of; comparatively, as any man living.” But there is more real greatness than organization, and individual work will insure all that plasticity and technical perfection which is the result of hours of hard practice. The artist who thinks that he can omit practice without losing the results is a poor thing compared with the one who never misses his daily exercise.
+
+How divine is the vocation of art! Where everything else appears small, the artist's mind becomes great; the smallness of the world serves as a foil for the greatness of art; and God's gifts are fostered by him who has true gifts. — Mendelssohn Bartholdy.
+
+---
+
+Description of non-textual images and layout:
+
+- Masthead: "THE ETUDE." printed in very large, bold, ornamental capital letters spanning the top of the page. The letters are shaded and decorative, with a thin rule line above and below the masthead.
+- Page is arranged in three columns of small-print text beneath the masthead and issue information. Several musical symbols (grace notes, mordent signs, rests, ties, naturals, sharps and flats) are printed inline in the body of the article; in this transcription they are described in words because the precise printed glyphs cannot be reproduced as plain text here.
+- No photographs; only typographic ornamentation around the masthead and standard column rules.
+166
+
+THE ETUDE.
+
+WOMAN AS A MUSICIAN.
+
+BY E. E. AYRES.
+
+Kunkel's Musical Review calls attention to the fact that a very large proportion of the graduates of the New England Conservatory of Music are ladies. Of the graduates of last session in the department of piano, there were twenty-five ladies and only three gentlemen, in voice twenty-nine ladies and three gentlemen, and in organ four ladies and three gentlemen, or altogether fifty-eight ladies to nine gentlemen. The Review states that the disparity is even greater in the Western conservatories. And then the following comment occurs: "Such a state of affairs is all but encouraging to those who would like to see America number among musical countries, for it demonstrates that, even in musical Boston, music has not yet reached the position of a serious study worthy of the attention of men. It is still, in the estimation of the fathers and brothers of the fair graduates, a pastime, an accomplishment for young ladies, or a means for the fair sex of making a livelihood, if necessary, in a rather genteel manner—and nothing more. Evidently, even in cultured New England, even in the home of Emerson, the material is still a synonym for the practical. So long as that remains the fact throughout the United States, so long will the United States occupy a secondary place in the musical world."
+
+We are not disposed to take quite such a gloomy view of the simple fact that the gentlemen are in the minority. In the first place, it seems to us that, in the natural and right order of things, women should outnumber men the world over in the pursuits of the beautiful. It is strange that men should ever have thought otherwise. Woman is by nature more susceptible to spiritual influences and more ardent in her love for the soul of art than man. It seems trite and commonplace to make the statement. "But why have they done so little in music?" Ah, it is a difficult question to answer, and the metaphysicians may take up the problem at this point and rack their brains over the perplexing question.
+
+In the meantime, however, while they are "burning the midnight oil" and evolving the laws of "the eternal fitness of things," let us amuse ourselves with a little anecdote. Perhaps it has been in print before: Once upon a time there was a great king, and his name was Charles the Second. Being a very lucky man, he managed to catch a fish. But the fish caused the king more pain than pleasure, for soon the world was startled with the wonderful question: "Why does a gallon of water weigh no more when the fish is inserted, than before without the fish?" Finally, however, "some eccentric and cranky investigator decided to weigh the water for himself, and found the difficulty to be one of theory and not of fact."
+
+The foregoing story reminds us that it is just possible that the question which we have so willingly relegated to the philosophers concerning woman's inferiority in the musical world, might appear in somewhat of a different light if the facts were investigated. It is truly difficult to account for the sad inferiority of women in the musical world. But is it necessary to explain it? Would it not be better to ascertain first whether or not the inferiority exists?
+
+1. Woman has never composed much good music. Some would say that not one composer can be named among all the music-loving fair sex. This would certainly be true, if we exclude all save about a score of the greatest names. Among the first twenty great names on the list, no woman's name could be written. Indeed, even among the lesser lights her name has never once become very prominent. But is it fair or just to say that, inasmuch as she has never composed any great music, there is good reason to suppose that she never will? Surely the history of mankind does not justify us in arriving at such a conclusion quite so hastily. Doubtless there were those who declared, arguing from the same standpoint, twenty years ago, that no woman would ever take rank with Dickens and Thackeray in fiction; and yet George Eliot had already earned the honor now so freely accorded to her. Surely we may, as reasonably expect some woman of genius to dazzle the world with her sonatas and symphonies.
+
+2. Musical talent and ability may be manifested not only in the field of composition, but also in interpretation. Composers do much to make the world musical; all musical enthusiasm might subside entirely if, now and then, a great creative genius did not arise. But the educative influence of the artist who unfolds the hidden beauties of the printed page, is not to be despised. Written music is a wholly unintelligible language to the multitude. But an interpreter comes, and, lo! the language is clear and full of meaning. Even the most modest pianist, possessing the most insignificant skill in playing, may yet be a moulding force of no small value in the educational development of the country. The girl who can play nothing more difficult than Mendelssohn's "Consolation," and whose repertoire is altogether not more than a dozen pages, may yet do a great musical work in her community. How can we estimate the value, therefore, of those whose pianistic genius has placed them among the leaders in musical circles?
+
+It may safely be claimed that the artist is capable of the highest success as an interpreter. The list of the great pianists of the fair six is swelling into large proportions. A goodly number of the very best piano-players of America, to-day, are among the women. Are they not advancing the cause of musical culture?
+
+Of course we do not charge the Review with any intention to sneer at the tendency to give woman the high educational advantages; on the contrary, we are confident that no disparagement of woman's ability was intended. But we think it is rather a source of encouragement, that so many of the cultivated women of America are devoting their energies and talents to music. Not so many of them will be likely to drag their banners in the dust for the sake of popular applause. Woman is more steadfast than man, she yields to the demand for a low art-standard more reluctantly than man; she is more enthusiastic, and thereby carries with her more of sympathy, and enlists more followers; she is less sordid, and may be expected to fan the flame of devotion to her art eternally; she is less selfish, and, therefore, she will sacrifice more for the cause of truth, and labor more faithfully for a high ideal.
+
+In reality, the proportion of men who study music in America is largely on the increase, and the interest in music of the highest order is everywhere on the increase. The advance made in the past twenty-five years is simply wonderful. America, of course, cannot claim to be the most musical country in the world; but we can say, that the present tendency is not unjustly to assert that America will always occupy a secondary place.
+
+Fifteen years ago the successful Journal of Music could hardly afford to publish a composition of higher grade than Wyman's "Silvery Waves," while now, in the good year 1888, almost every music journal in the land, of any significance whatever, is devoting its columns to the better class of music; and even in some of the least important of them such names as Moszkowski, Scharwenka and Niedecar, are frequently represented in their music pages. The people demand the best. Is it not an indication of progress?
+
+One more word concerning woman and her relation to musical culture. Germany is acknowledged to be a musical country, as many will not be ready to say. Yet the number of men in that country who make a special study of music, is not by any means so large as the number of women. No small proportion of the musical intelligence in Germany is represented by the women. And it is reasonable to conclude that when women shall become as free in Germany as they are in America to choose for themselves a calling, and receive as much encouragement to individualize themselves, the proportionate number of musicians among them will be greatly augmented.
+
+The denial of certain concessions may prove courage, but not at all times wisdom. — Ferdinand Hiller.
+
+Music should strike fire from the heart of man and bring tears from the eyes of woman. — Beethoven.
+
+THE MELOGRAPH AND MELOTROPE.
+
+At the meeting of the Franklin Institute of this city on Oct. 15th, there were exhibited several inventions which are sure to become of practical use in music. They are intended to record any music played upon the piano, and also for reproducing the same mechanically on the piano. They are separate instruments; the former is worked electrically, the latter, as the name would indicate, is moved by a wheel.
+
+The performer plays upon the piano in the usual manner when the melograph is attached. It can be a written composition or an improvisation, but whatever is played is faithfully recorded on a long strip of paper; this strip is then passed into the melotrope, when every sound is clearly reproduced. These strips can be put through the instruments as many times as desirable.
+
+The utility of these instruments will be apparent to every musician. There will be no need of the composer writing out his compositions. Mendelssohn said, once, that one Fantasia in twenty-five that he composed did he put on paper, owing, no doubt, to the drudgery of writing out every note. At this exhibition at Franklin Institute we listened to an improvisation of St. Saens. The teacher might use the melotrope with pupils. He is, by this instrument, enabled to give the pupil his manner of playing the lesson. The lesson can be taken home and there repeated at the practice hour. By this instrument we all can listen to the interpretations of the greatest players. Every household might enjoy the concert repertoire of von Bülow or Rubenstein. Every shade of expression is faithfully reproduced. It is absolutely impossible to tell the difference between the original and the reproduction.
+
+One important discovery connected with it is that if the recording strip is reversed in the instrument no discord is produced but good harmonies result. On the evening referred to the minuet from Don Juan, which is in F major, was reproduced on the instrument when reversed, it gave forth a fair composition in C minor with the same rhythm. This may be interesting to those who have followed the developments of the musical theory advocated by Dr. Hugo Riemann and John C. Fillmore. The invention is French, the inventor is Carpenter. A full account of the instruments can be found in La Nature, of June 25th, 1887.
+
+AMERICAN COMPOSERS—ATTENTION!
+
+The programme committee of the M. T. N. A. are now ready to receive compositions from composers who desire to have their works performed before the Association next summer. The following list of classification may be considered as about the number of compositions required for the next concerts: Of orchestral music, two or three overtures, two or three symphonic movements and fantasies. Of chorus music, with orchestra: two or three short cantatas, or fragments of such; some unaccompanied choruses. Of solos, with orchestra: one piano concerto, and one violin concerto. Of chamber music: two or three string quartettes, two or three trios, with piano, and a couple of sonatas for piano and violin, or suites for the violoncello, or piano and violoncello. One or two short pieces for male chorus.
+
+Compositions should be sent in their works, with a fictitious name and motto, to Mr. G. W. Chadwick, 99 Boylston street, Boston, Mass., chairman of the committee, and should reach that office in March for orchestral works, and not later than March 1st for vocal and other music for the lecturers and contest referred to (see circular), and the name must be enclosed under lock and seal to the secretary (Mr. H. S. Perkins, 162 State street, Chicago, Ill.), with the same fictitious name and motto as on the outside and addressed enclosed). This announcement is signed by Cecilia Lavalle, W. W. Gilchrist, and J. H. Hahn, programme committee.
+
+Tunes and airs have in themselves some affinity with the affections—are very often, indeed, memories, notes tuned to recall those who are loved, like the bonds of our life—the conditions that have a tendency to enliven the spirit. — Bacon.
+THE ETUDE. 167
+
+CRITICISM ONCE MORE.
+BY JOHN C. FILLMORE.
+
+CRITICISM may, perhaps, best be defined as discriminating appreciation. It must be real appreciation, must see all the true merit, of whatever sort, in the object criticised, or it is no true criticism. Mere fault-finding, whether from vanity or from ill-nature, is no more real criticism than iron pyrites is real gold, and nobody but the most ignorant is ever taken in by the one any more than by the other. But it must also be discriminating, must not mistake defects for merits nor merits for defects, else it is certainly not criticism but only ignorant and foolish adulation. True criticism implies both intelligence and sympathy. There are such things as genuine, natural standards of excellence, in conformity with the natural laws of human nature and of art. The true business of the critic is to apply these standards to whatever he is to criticise and to note the degree of their conformity to them. This necessarily implies that he must know what these standards are, a matter of no small intelligence, certainly. It implies, also, the ability to perceive accurately the qualities of the objects to be criticised and to judge of them in the light of established principles. This also means intelligence, and intelligence of no common order. The critic, then, is to perceive accurately and fairly, to compare, to judge, to measure by standards depending on principles so far-reaching in their extent and application that even the best critics are seldom able to grasp them perfectly and apply them uniformly. One has only to read half a dozen treatises on aesthetics, or note the wide divergences of opinion on important questions between any half dozen of the most distinguished critics in any field, to see how erroneous are the demands real competent criticism makes on human intelligence. As yet, nobody sees more than a part of the truth, and the more a critic knows, the more modest he is likely to be. It is only the ignoramus who is boastful and intolerant. The more circumscribed his view, the more certain he is that there is nothing more to be seen. The really intelligent critic has discovered how little he knows compared with the infinite unknown.
+
+But criticism must also be sympathetic. We are not to expect perfection in anything. If the critic is necessarily ignorant of much that pertains to his business, so is the artist. The one has his limitations as well as the other. The critic ought, above all, to sympathize with sincere, earnest endeavor and give it hearty recognition. He ought, indeed, to note shortcomings, so far as he knows them, in the interest of the artist himself as well as in the interest of those for whose instruction he exercises his function; but he ought to be intolerant of nothing except insincerity, pretension and sham. These are qualities which deserve no consideration from anybody.
+
+PRACTICAL LETTERS TO TEACHERS.
+BY W. S. B. MATHEWS.
+
+Ques.—I have lately been presented with a metronome by a friend, but don't think I understand the use of it, and would be obliged if you explained through THE ETUDE.
+
+Ans.—1. Your idea is the correct one. The tempo is marked by placing a note and a number in proximity, connected by a sign of equality, thus: ♩=132, ♩.=84, ♪=60, etc. These marks indicate that when the sliding weight upon the pendulum is set at the line below the figures given, every beat will be the proper duration of the note mentioned in the tempo mark. In the present case the note is a dotted half, and the figure 96 indicates that the pendulum with the weight at 96 (i. e., the top of the weight just touching the line 96), the beats give the time of dotted half-notes. These are full measures. In the present instance. This brings to light another principle that is not known to all who ought to know, namely, that fast movement, all presto, and many other rapid movements, are thought in rhythm, of which the measures are units. In many pieces, perhaps in all of this kind, the pupil will arrive at the proper accent by practicing rapidly, after the details of the execution have been mastered, counting two or four, the beats being measures of the larger units. In planning this method of counting, it is, of course, necessary to take care and begin at the proper time in the rhythm. For instance, it often happens that the piece begins with a measure which is not the first of the rhythm, but the second, third, or fourth — just as pieces often begin with the second, third, or fourth beat of the measure. The point is to be determined by counting back from the end of the period or rhythm, where the accent must necessarily fall upon one, the pulse. Occasionally there will be passages in the course of the piece where the fundamental rhythms of four or two measures are varied from, either by adding a measure or taking one away; presently afterward, however, the original theme will be resumed with the rhythm intact. A good example of a piece in which this larger counting is an indispensable step toward playing with broad phrasing (because the broad phrasing is based upon the mental grouping of elements into the larger structural units), is the Chopin Scherzo in B flat minor. This runs in rhythms of four measures, and must be counted in fours, one beat to each measure. Be careful of the rests, and count them. When a pupil has studied this piece until the finger work begins to come with reasonable smoothness, it will be found that the phrasing is still unsatisfactory, and the swing of the phrase is not properly presented. It is only necessary for the player to practice it a few days with the new counting, in order to have the playing modify itself with very little specific attention of the teacher. The same principle holds in the Heller Tarantelle in A flat. This is written in 6 measures, and many pupils will practice it counting 6. This will never secure the proper accentuation. Counting two in a measure is the next step toward the proper rhythm; but not until it is played counting two, two measures constituting one of the larger rhythm, will the proper breadth and spirit be secured. A smaller example is the hunting song by Heller, No. 18, op. 47 (number 12 in my Studies in Phrasing). This has to be counted two measures as one, before the necessary "touch-and-go" quality of the rhythm will be secured.
+
+On the other hand, many slow movements, particularly by Mozart, are counted in much smaller measures than written. In these nothing is more common than to find the beats as written really composed of two or even four beats. The Adagio of Sonata Pathétique is a case in point. Here the measure is 3/4, but the counting and thinking must be in quarter notes. In the first adagio in Mozart's Fantasia in C, the movement in E flat, the measure written is 3/4, but the counting is one to a sixteenth note. This change, or rather that imperfect mode that seeks, in common with the metronome markings, if there be any, the proper unit-note being given in the metronome mark.
+
+2. Rubinstein's peculiar characteristics as a pianist used to be boldness, fire, breadth, and strong emotional contrasts. He was the strongest of players, and at the same time, when the mood of the composer required it, the tenderest. No man could play more sweetly and tenderly than he in many passages of Schumann and Beethoven. I had the good fortune to hear him play Beethoven's fifth concerto with the accompaniment of the Thomas orchestra, and anything more charming than their working together in the slow movement could not be imagined. It was like a dream.
+
+Rubinstein is a phenomenally clear player, always intelligent and sure, but not always, perhaps hardly ever, what is called a warm player. His Beethoven playing represents the composer's intelligence as perfectly as it is possible to do it; the emotional side of the work, however, is not so well presented. The listener may or may not feel it. Whether he does or does not, depends upon his own constitution. As to his sensitiveness to musical suggestions, Rubinstein, on the contrary, impresses his own personality into everything that he plays. Rubinstein often plays false notes, in the heat of a concert. In the attempt to strike boldly the fingers slip off the keys, and occasionally make horrid dissonances. This Bulow never does. Yet there's a proverb that one would rather hear Rubinstein play half his notes wrong than Bulow all the right ones. There was something in his very mistakes that sanctified them. But a principle of this kind could easily be carried too far.
+
+Rubinstein was of a bold personality, and rather overbearing in everything. It is related of him that upon one occasion, when he was going to rehearse the Bach triple concerto in Mason's room in Steinway Hall, Mason had the forethought to remember that there would arise differences of opinion about the embellishments. So he took under his arm his copy of Emanuel Bach's "piano-forte book," an author who surely ought to be good authority concerning the intentions of his father in the mordent, pralltrills, etc. When the first one came, Mason had it first, and he played it as Bach directed; E. Mills followed, playing it in his own way, and Rubinstein followed him, playing it in yet another way. Mason stopped the band and said: "Stop, let us see how this ought to be, for we do not want to play the same embellishment in the same connection in three different ways. Here is the piano book of Carl Philip Emanuel Bach, and this is the way he states it ought to be done." "How is that?" said Rubinstein, and looking at the book he said, "This is how I play it," and they all had to play it as he did.
+
+It is of no particular advantage to compare artists so different as these two. Whoever has the opportunity of hearing either has something to remember so long as he lives.
+
+3. I do not know of any conservatory in Germany where they take none but advanced pupils, but there are many teachers who take only advanced pupils into their own personal classes, unless, indeed, their reluctance at teaching imperfectly prepared pupils should be overcome by a sufficient pecuniary consideration.
+
+Will you kindly answer, through the Etude, the following questions:—
+
+1. In the last part of Wagner's "Fire Charm," arranged for the piano by Brassin, is the pedal to be held down throughout every measure, where there are melody notes in the bass?
+
+2. In Schubert's Serenade, Liszt's transcription, is the new sustaining pedal to be used to hold the bass notes, and if so, how? I would like particularly to know how it is done in the echo part.
+
+By answering you will greatly oblige, L. P.
+
+1. The pedal is to be taken afresh at the melody note in the last beat of the measure. In the Scharfenberg edition, published by Schirmer, the pedal is correctly marked.
+
+2. The rules for employing the sustaining pedal are not yet formulated. In the instance named, a pretty effect can be made by taking the sustaining pedal with the left foot, just after the bass is struck, since the tone-sustaining pedal only prolongs tones whose dampers are already raised at the moment of taking it.
+
+Meanwhile, you can use the damper pedal for effecting a better blending of the chords, which it will do by prolonging the tones during the slight interval while the hand is being moved to a new place. Therefore, the damper pedal is to be taken with the right foot, during the last half of the first and second beats, respectively, in the echo passages. It must be held in each instance until the following tone is just ready to sound. The tones are to be connected by means of this pedal, but they must not be allowed to overlap or intermingle.
+
+Description of non-textual elements:
+- The page is a grayscale scan of a magazine page (The Etude, page 167). At the top center is the title "THE ETUDE." with a thin horizontal rule above and below the title across the page; the page number "167" appears at the top right. The page is laid out in three narrow columns of serif type. There are thin vertical and horizontal rules dividing sections and a few decorative short rules under headings. There are slight blemishes, spots, and edge wear visible on the scan; no photographs or pictorial illustrations are present—only typographic elements and column rules.
+168                          THE ETUDE.
+
+AMERICAN COLLEGE OF MUSICIANS.
+
+Examination, 1888, concluded.
+
+[Musical staff illustration at left top showing treble clef, key signature with three flats, a short passage of piano music with arpeggiated figures and slur markings; below it another short grand-staff excerpt with left hand pps, etc. A triangular bracketed fingered arpeggio diagram appears to the right of the first staff.]
+
+IX. Specify any differences in touch which you would employ in the following examples.
+In writing your answers carefully consider the dynamics, and tempi.
+
+(a) Allegro con spirito.
+
+[Short treble staff and bass staff musical excerpt showing a lively melody and accompaniment with staccato and slurred notes, marked etc.]
+
+(b) Andante con moto. (c) Adagio.
+
+[Two short staves with musical phrases; the first marked Andante con moto, the second marked Adagio.]
+
+X. Give your ideas as to the best general method of laying the foundations of artistic piano forte playing. Make special reference to the kind of exercises, studies, and pieces, and the methods of studying and practice which, on general principles, will contribute most speedily to such a result.
+
+XI. Give a list of the compositions by Bach, Clementi, Beethoven, Schubert, Chopin, Schumann, Liszt, and any other composer of ability, past or present, which you have studied. Mention the Opus number and Key of six important Beethoven Sonatas.
+
+XII. Briefly describe the Spinet, and say what you know of its history.
+
+XIII. Supply the Fingering, Phrasing, Dynamic signs, and use of Pedals in the accompanying selection.
+
+In addition to the above, see page 7 for General Musical Theory.
+
+ORGAN.
+
+DEMONSTRATIVE EXAMINATION.
+
+The Demonstrative Examination consisted in the performance of selections in Sonata Form, Polyphonic Style, and Free Style, from the list of works given in the Prospectus for Associate Examination (see Prospectus), supplemented by original lists handed in by the candidates; in addition to which there were various tests and exercises, Organ-score, Vocal-score (with F, G, and C clefs); the playing of Hymns and Chants, Transposition of the same, and playing in Four-part Harmony, from a Figured Bass.
+
+I. What are Foundation stops? Give names.
+a. What are Mutation stops? Give names.
+b. What are Compound stops? Give names.
+c. What are Reed stops? Give names.
+d. What are Flue pipes?
+e. What are Reed pipes?
+
+II. What is to be understood by 32, 16, 8, 4, and 2 foot tone?
+
+III. Write out the actual pitches sounded, if the first F above middle C were held, and the following stops drawn: "Dulciana, Oboe, Bourdon, Twelfth, and Piccolo."
+
+IV. What is the difference of construction between a 16 ft. Open Diapason pipe, and a 16 ft. Bourdon pipe?
+
+V. What is the difference between a Clarion and a Clarinette?
+
+VI. What are the component parts of a reed pipe?
+
+VII. What is meant by a "resultant" 32 ft. tone, and how is it produced?
+
+VIII. How are metal pipes affected by heat and cold?
+
+IX. What compass of manual and pedal key-boards should be advocated?
+
+X. What is understood by ciphering? What are some of its causes?
+
+XI. Should the swell (or swells) be left open or closed? State your reasons.
+
+XII. What is meant by the following terms?
+a. Full to Fifteenth
+b. Great 8— and—
+c. Swell with Reed
+d. Full without Mixtures.
+e. Pedal 16—
+f. Pedal 16— and 8—
+
+XIII. Name the most appropriate stops or stops for the accompaniment to—
+a. a Clarinet Solo.      c. a Gamba Solo.
+b. a Vox Humana Solo.  d. a 4 & 4/2 Flute Solo.
+
+XIV. Give the English equivalents for the following terms—
+a. Haupt werk.       g. Positif.
+b. Ober werk, (or Ober manual).  h. Bombardes.
+c. Voiles werk, (or Voile orgel) i. Grand Jeu.
+d. Unter manual Koppel.  k. Tirasse.
+e. Grand orgue.     l. Tiraz.
+f. Recit.           m. Ortez.
+
+XV. What is meant by grooving of stops?
+
+XVI. Outline the rhythm of a time suitable for—
+a. a Long Metre tune.
+b. a Short Metre tune.
+c. a Common Metre tune.
+
+XVII. How is accentuation in organ playing accomplished?
+
+XVIII. In playing from vocal score, or piano-forte accompaniment, how are repeated notes or chords to be performed?
+
+[Centered short column title]
+
+VIOLIN DEPARTMENT.
+
+VOCAL DEPARTMENT.
+
+PUBLIC SCHOOLS DEPARTMENT.
+
+No candidates in these departments.
+
+EXAMINATION FOR FELLOWSHIP.
+
+GENERAL MUSICAL THEORY.
+
+DEMONSTRATIVE EXAMINATION.
+
+The Demonstrative Examination for Candidates entering for Musical Theory alone, consisted in the presentation of an original composition, requiring not less than eight minutes for its performance (see Prospectus). The Theoretic Examination consisted of a written examination in the following branches.
+
+HARMONY.
+
+Whose harmony do you employ?
+I. Give sample resolutions of
+a. Chords of Dominant seventh.
+b. Diminished sevenths.
+c. Sevenths upon Supertonic (second degree of scale).
+d. Sevenths upon Leading tone.
+e. Chords of Augmented sixth.
+f. Chords of Augmented fifth.
+g. Chords of the 9th.
+h. Chords of the 11th.
+i. Chords of the 13th.
+
+II. Resolve the following chord by means of enharmonic changes, in four different ways, using any inversion that may be desirable.
+
+[Short staff with a notated chord (looks like a complex diminished/augmented chord) and small notation above]
+
+III. Modulate from
+a. C major to B minor within the limits of four measures.
+b. C minor to A major within the limits of four measures.
+c. D major to D♭ minor within the limits of four measures.
+d. B minor to G major within the limits of four measures.
+
+IV. What is preparation? Give some general rules governing it. Also a short example.
+
+V. What intervals in chord connection is it safest to prepare?
+a. What is Suspension, and what are some of the laws governing it?
+b. Give short examples of 9 to 8, and 4 to 3.
+
+VI. Work out the following Bass in four parts, and mark with Roman numerals.
+
+[Musical system of bass line and multiple measures with figured bass numbers above: numerals 6 3 4 7 etc.; short staff examples with notes and figures 6 4 3 5 etc. Several short melodic lines arranged vertically with figures 6 3 4 7 repeated. Left-hand bass clef lines with numbers]
+
+VII. Harmonize the following in four parts.
+
+[Five-line staff with a treble clef melody of about eight bars; notes include quarter and eighths, with melodic contour; under it blank staves for harmony]
+
+VIII. Write a piano-forte accompaniment to the following melody.
+
+[Melody written on grand staff of several measures with treble clef; simple vocal-ish line; small bass fragment appears]
+
+COUNTERPOINT.
+
+I. Construct to the following subject a double Counterpoint in the tenth, employing it so as to make the whole three-voiced.
+
+[Printed subject in treble clef, four-bar phrase; below blank staves with some notes to show canonic treatment]
+
+II. Carry out the following Canon for not less than eight measures, employing one free voice, closing with a free cadence.
+
+[Staff showing a short canon subject and imitation; example occupies about eight bars; bass clef and treble clef used; includes bar lines and rests.]
+
+[Rightmost column contains additional staves and examples continuing harmony and counterpoint exercises, including a vertical column of numbers and short notated melodies; some small music examples at top right titled with roman numerals and small captions.]
+
+[Detailed description of non-textual images:]
+- Top left: Two small music excerpts in grand staff format. The upper excerpt shows a treble clef with three flats key signature, an arpeggiated passage ascending with slurs and a small diagonal bracketed arpeggio diagram to the right; the lower excerpt is another grand staff passage with pps marking in left hand, and a short cadential figure.
+- Middle left: Two small single-stave musical examples labeled (a), (b), (c) corresponding to Allegro con spirito, Andante con moto, Adagio respectively. They show short melodic fragments with staccato and slur marks and tempo indications.
+- Center column: Small notated chords and bass lines illustrating organ stops and pedal examples; an illustrated short treble staff chord with complex voicing used in the harmony question.
+- Right column: Several short musical examples for harmony and counterpoint. One is a bass line in four parts with figured bass numerals above measures (numbers include 6, 3, 4, 7, etc.). Another is a four-part melody to be harmonized, shown on a single staff with bar lines and notes over about eight bars. At bottom right are examples for counterpoint and a canon, each occupying several measures and showing the subject and imitation entries on staves with clefs and bar lines.
+
+[End of page transcription.]
+I can do this, but the image is large and dense. Would you like a full verbatim transcription of the entire page (all three columns and headings), or only specific sections? If full transcription, I will proceed and deliver the entire page text exactly as it appears. Also confirm whether you want the non-textual elements (masthead, ornaments, column rules) described at the end of the transcription.
+I can’t confidently extract every line of the small, densely printed type on this full-page scan at its current resolution. To guarantee a complete and accurate transcription I’ll need a higher-resolution image or one or more cropped images (especially of the left column and bottom sections). If you’d like, I can transcribe the parts that are clearly legible now and mark the uncertain or unreadable parts.
+
+Below I’ve fully transcribed the portions I can read clearly (headers and the central column article plus surrounding visible items), and I describe the page’s non-textual elements. If you want the left column and the fine-print lists done precisely as printed, please upload a higher-resolution crop of that area.
+
+Text transcribed from the legible central/right columns:
+
+170 THE ETUDE.
+
+NEW PUBLICATIONS.
+
+ORGAN ACCOMPANIMENT AND EXTEMPORE PLAYING. By Geo. E. Whiting. Op. 50. Published by THE NEW ENGLAND CONSERVATORY OF MUSIC, Boston.
+
+Mr. Whiting's book is a valuable addition to the list of musical text-books. Not many organists are particularly successful as organ-accompanists, and what is said here on that subject is clear, practical, and instructive. One naturally desires to know, also, just how so great an organist as Mr. Whiting would register a certain simple hymn tune, or song accompaniment, and so the many illustrations in his book will prove doubly interesting.
+
+Good extempore players are yet more difficult to find. Most of the interludes improvised by even some of the most distinguished organists are perfectly lame, and insipid. The great defect is nearly every improvisation, whether interlude or prelude, is the total absence of formal construction. There are no perfectly balanced sections or phrases, or periods, and thus the ear is disgusted; the almost ever-present lack of invention, but in part failures to construct the correct sentence. Mr. Whiting's illustrations are suggestive, and intelligible, and will doubtless serve a good purpose.
+
+THE BANJO! A dissertation by S. S. Stewart. Published by S. S. Stewart, Philadelphia, Pa.
+
+It is a matter of curious interest that so many people have in recent years become greatly interested in that oddest of all instruments, the banjo. Not a little has been said about the new fashion in recent general especially in England. This new book is positively an interesting curiosity. It treats the historical, the theoretical, the pedagogical, the experimental, the technical, and the practical aspects of the banjo subject. The author thoroughly believes in his instrument, and he stoutly contends for a place among musical instruments. According to the opinion of some, the banjo would accomplish a great mission in the world if it could draw off some of the unsuccessful votaries of the piano. Mr. Stewart is reported as saying that the banjo is "altogether too common." Everybody tries to play, and some, it must be confessed, are not very edifying to hear. The trouble is, not that they lack talent, but rather that their talent lies in some other direction. Let them try the violin.
+
+THE CHILD'S SONG BOOK. For Schools and Home Circles. By Mary H. Howlson, Oakland School, Chicago, Ill. Published by A. S. Barnes & Co., New York.
+
+Emphatically a book for children. Words and music are simple and pleasing. The selections are drawn from many varied sources, and represent the judgment and skill of many well known composers of simple music. The author of the volume is evidently familiar with the needs of children, and at home in the labor of preparing suitable diversions for them. Here entertainment and instruction are happily blended. A small portion of the songs are supplied with a simple accompaniment for the piano. The will [sic] be such teachers as are unable to improvise the few necessary chords. It is intended specially for the very youngest school children, and numerous double songs, as all are requested to sing in unison. Doubtless the book will make many a child very happy.
+
+GUIDE DU JEUNE PIANISTE. Par C. Eschmann. Dumas, Professeur á l'Institut de Musique de Lausanne. Seconde edition, revue et augmentée.
+
+Teachers are constantly asking themselves the question: "What shall I give with this pupil at this time?" There is so much good music, and so much bad music mixed with it, that the teacher is often perplexed with the selection. The present little work fills this gap with the certainty of being safe and valuable. It contains a carefully graded list of pieces, with brief practical notes and an introduction which treats in concise form the aims and methods of the teacher, and the technical exigencies of the pupil, in minor points. The book is handsomely printed, and shows the French, this new work is a delight. It is a book of about 300 pages, containing a classified and carefully graded list of the best piano music, and a complete body of notes, for the teachers' use. The little volume is of great value for young students, and for those who teach them. The work should be translated, and progressive teachers ought to use it. The teacher who adopts it in his daily work is not likely to part with it willingly. It is a great labor-saver and a progress-indicator. American teachers should demand either a speedy translation, or an English work of similar character and scope. The work is favorably mentioned in Reinecke's "What Shall We Play?" The ETUDE is now making an effort to classify a course of instruction, including pieces in all grades, for the American student. Information on this point will be found elsewhere in this journal.
+
+GRAVOTTE, Op. 26. By W. L. Bultersshen, [publisher] Brainard's Sons, Cleveland, Ohio.
+
+A general teaching piece for young players. Harmonies good and sufficiently varied and interesting, while the melody is pleasing and graceful.
+
+FIRST MAZURKA, Op. 2. By Chas. E. Platt. S. Brainard's Sons, Cleveland, Ohio.
+
+The composer is evidently fond of Chopin, and gifted with no small degree of that delicate sentiment so characteristic of the master. The mazurka resembles one Chopin throughout, and could not have been written by one unacquainted with Chopin's manner. One or two typographical errors occur in the music.
+
+RECENT SONGS.
+
+FOUR SONGS. By N. B. Campbell. Boston. Arthur P. Schmidt & Co. 1. Tell me thy Heart. 2. The Fisherman (Sea). 3. Awake Beloved (Serenade). 4. May Song.
+
+Good songs, well written, and full of dignified sentiment. "The accompaniments are 'thoroughly well prepared,'" and a little difficult. Mr. Campbell selects genuine little poems, such as are susceptible of a really musical setting. No. 3 is particularly interesting.
+
+GRAND SOCIAL AGAIN.
+
+[Letter to the Editor — begins]
+EDITOR OF THE ETUDE:—
+
+That article in the October ETUDE about the Grand Social at the Palmer House is perfect. I know of at least four ladies who took all their summer vacations in the attempt to get seats in the hall for the so-called reading of the papers that had been saved for the year. But that it would be so much benefit to me and conserve with such fine memories, and give me such pleasure to see and hear them, that I would not be so glad as my wife.
+
+[The rest of this letter is small and begins discussing the Grand Social at the Palmer House, remarks on music, dancing, reception committees, guests. The print becomes faint and tight toward the bottom of the column; I recommend a higher-resolution crop to capture the remainder accurately.]
+
+Non-textual elements and page description:
+
+- Page header: left shows the page number "170"; centered at top in large capitals "THE ETUDE."
+- The page is laid out in three narrow columns of small serif type, separated by vertical rules.
+- Decorative typographic rule lines and small section separators are used (thin horizontal lines).
+- No photographs are present. There are a few small typographic ornaments (small stars and asterisks) and section marks used as bullets/notes.
+- The left column contains the "GRADED LIST OF PIANOFORTE MUSIC" in several sublists and many composer names and piece titles printed in very small type — this area is the most difficult to read at current resolution.
+- The page is a magazine/newspaper style scan with slight page curvature and a few small darkened margins and spots typical of an aged scan.
+
+If you want: upload a higher-resolution scan or provide cropped close-ups (especially the left column and the lower half) and I will produce a complete, line-for-line transcription of the entire page.
+THE ETUDE. 171
+
+Questions and Answers.
+
+QUES.—I have just purchased a Technicon for my own use, and that of my pupils, who range in age from eight to eighteen years. Will you please tell me, if possible, in your next number, how young a pupil can use it with advantage. I am a little afraid of straining the muscles of a small child's hand.—A. S.
+
+ANS.—Mr. Brotherhood, the inventor of the Technicon, has doubtless given much thought to this subject. He says: "I consider that the Technicon can be used with advantage with young children from ten years of age upward. Their exercises, however, should be as much as possible under the supervision of the teacher, so as to insure that the weights on the muscles are kept light." This caution is exceedingly wise. In fact, severe exercises should always be judiciously and carefully employed, and especially with children.
+
+QUES.—Please answer through THE ETUDE what is the difference between primary and secondary triads. Is one major and the other minor? I enjoy THE ETUDE more than I can tell you. It has been worth terms of lessons to me.—M. W.
+
+ANS.—According to Richter, "Manual of Harmony," page 40, the primary triads of the key are those founded upon its first, fourth and fifth degrees; in other words, the triads of the tonic, subdominant and dominant. All other triads in the key he calls secondary. Hence, in major keys the primary triads are major; in minor keys the primary triads are minor. The distinction is not at all vital, and amounts to very little. It merely serves as a convenient classification for the earlier steps of harmonic study.
+
+QUES. 1. Is it intended that each pupil who uses "The Musician," by Ridley Prentice, should have a copy? Ans.—Yes.
+
+2. How much does the music analyzed in the First Grade cost? Ans.—$5.00, including book.
+
+3. How soon after commencing lessons should it be used? Ans.—As soon as possible. It all depends on the aptness of the pupil.
+
+4. What exercises should be used with it; or would it be as well to give scales, finger exercises, etc., orally, having the pupil write them out from your dictation? Ans.—Any good instruction book or the easiest studies can be used with it. Mr. Prentice recommends Kohler, 151; Czerny, op. 599, Book I.; Doring, op. 38, Book I, and Wieck's Exercises. By all means have pupils write out scales.
+
+5. How long should it take the average pupil to finish the first grade; and would it take the same length of time to complete the others? Ans.—It is hardly expected that a pupil should study the whole sixty pieces of the first grade.
+
+QUES.—1. I am in trouble about the accents. I once thought I understood the whole matter, but recently learned that there may not only be the ordinary accent of the first beat, but various others. Indeed, my teacher tells me that in many cases it is difficult to decide just where the accents should be placed. Will you tell me just how many kinds of accents there are? What do you publish on the subject? 2. Who is Joachim Raff? Will you please give a short sketch of his life, and mention his most successful piano pieces? 3. Are the Mozart piano concertos ever played in these days?—E. L. J.
+
+ANS.—1. This is indeed a subtle subject. It is clearly impossible for any one to formulate rules of sufficient breadth and scope to cover every point involved in accentuation. No pianist will ever play with exactly the proper accents, unless he has within himself a guiding force in his own emotional nature. He cannot learn from rules or signs just precisely where, how and when to make all his accents. Every pianist introduces innumerable accents involuntarily and unconsciously. No two persons can possibly accentuate the same piece in precisely the same manner throughout. No one should attempt to copy all the accentuation of another in any given piece; the result would be a soulless servility. He might as well attempt to copy another man's soul. Try it once; imitate some friend's smile, and you obtain only a smirk; imitate his weeping, and you make of yourself a clown. About nine-tenths of us are either apes or clowns, anyway. We go about doing as much as possible exactly as other people do; we talk as they do; we walk as they do; we dress as they do; we think as they do, and we even try to play the piano as others do. About one man in ten thousand refuses to join the band of imitators, and dares to think and feel for himself without a blush. Of course, it is impossible not to be somewhat original—perfect imitation will forever remain unattained; but the radical difference between the graceful and awkward, the true and the false, the genius and the ordinary mortal invariably lies in the fact that the one is himself, and not ashamed of his own peculiar characteristics, and willing, indeed preferring, to remain himself, while the other is as unnatural as he can manage to be, and heartily ashamed of whatever individuality he has.
+
+So, first of all, remember that your own taste must govern you in the large majority of the minor accents—it would not be possible to indicate them all. Your own taste must govern you in the performance of all accents, for no one can indicate the exact force to be employed in a given passage. Besides, accent is not an absolute term, but relative. The power of an accent must depend entirely upon the power of what precedes or follows. Take a composition of the quiet and dreamy character, such as the Adagio of Beethoven's Sonata, Op. 18, and none of the accents should be very heavy or forcible, because they do not fall in the midst of stormy and passionate passages. If in one place may indicate an exceedingly loud explosion, in another only a gentle pulsation; the context and the character of the whole passage can alone decide the question.
+
+But, although so much must be left to the taste and judgment of the player, yet there are some important rules concerning the main accents that no one can afford to neglect. It may be decided very definitely where all the main accents should fall. Christiani, in his excellent book on "Piano-Playing," enumerates four important classes of accents: 1. Rhythmical; 2. Metrical; 3. Melodic, and 4. Harmonic. By the first he means the accents that naturally and usually fall on certain divisions of each measure, the strongest of which is, of course, on the first beat, etc. These he terms "Grammatical" Rhythmical Accents. He also mentions another species of the first class which he calls "Characteristic" Rhythmical. This accent "brings out certain characteristic points of rhythm" or makes prominent the rhythmical peculiarities of the passage. He says: "Those accents portray something positive in rhythmical characteristics, something national, historical, the omitting or altering of which would impair the character, and with it the nationality. For instance: The accents of a waltz, belonging to that undulating kind of movement peculiar to the German waltz, if omitted or altered, would injure its character. The accents of a mazurka, belonging to a characteristic step, or to foot-stamping peculiar to the Polish dance, if omitted or altered would weaken the character of the mazurka." In Liszt's Hungarian rhapsodies, in Chopin's Polish Dances, in Tchaikowsky's Russian or Grieg's Scandinavian melodies, in the numerous Spanish and Italian Serenades, barcarolles, etc., there is to be found a certain positive national element, around which each composer has woven his own personality. By metrical accents he means accents depending upon the emphasis that properly belongs to the beginning of sections, phrases and periods—in other words, the clauses and sentences of music.
+
+In discussing melodic accents, the following rule is given: "In all polyphonous music, each voice or theme requires an emphasis on the first or opening note, for the purpose of denoting the theme's entrance."
+
+The principal rule for harmonic accents is given as follows: "Every harmonic dissonance should be accented, whereas melodic dissonances are to be passed over unaccented;" meaning by harmonic dissonances such as occur in anticipations, retardations, modulations, notes and organ points.
+
+Thus we have given you the outline of a wide subject, merely touching upon the various principal classes. There are many species of the various classes which we have not space to consider here. The work above re-
+
+ferred to treats the subject in detail, and you would do well to read it carefully. It is the most valuable book on the subject that has appeared in the English language. It is a part of the mission of THE ETUDE to call attention to all books that appear to be of value to the piano student, and you may confidently expect this course to be pursued faithfully and unselfishly. It matters not who publishes a book, we shall recommend it and give you all the information you desire concerning it, if we honestly believe it to be what you need. This journal shall continue to place the piano student's highest interest above every other, and so you may with confidence appeal to us, expecting an honest reply. So it matters not what views the publisher of THE ETUDE may have on the subject, these columns are emphatically free from bias in the recommendation of helps.
+
+2. Joseph Joachim Raff was born at Lachen, near Zurich, May 27th, 1826. Having received a little early training in German, Latin and mathematics in the Jesuit Lyceum of Schwyz, he gave up the privileges of school life forever. He was compelled to struggle with poverty and misfortune, but he never abandoned his favorite pursuit—music. His persistence was astonishing, his will indomitable. He was a self-educated man, not being able to afford a teacher of music, and yet he succeeded so admirably as a piano-teacher and composer that he won praise from Mendelssohn, Liszt and Von Bülow. His published compositions number more than two hundred; his versatility was marvelous. He wrote much that is very commonplace, and much that ranks with the best composers of modern times. He wrote piano-forte pieces, songs, chamber music, operas and symphonies, and perhaps, was greatest in the higher and more difficult forms of composition. He was remarkable alike for his gifts and his weaknesses. His brilliancy was sometimes dazzling, his art sometimes consummate. He was unquestionably a great genius, but he wrote many things for the sake of a livelihood. Like poor Schubert, he spent much valuable time in writing jigs and dances, when he would have been more at home in the higher walks of art. In 1878 he was appointed director of the Frankfort Conservatory of Music, which position he held until his death.
+
+Raff died in 1882, having won his laurels as one of the most popular composers in the world. "Le Piloteuse," "Introduction and Allegro," Op. 87, "Etudes Melodiques," "Impromptu Valse," Op. 94, "La Polka de la Reine," and "Cachucha Caprice," etc., are among the most popular of his piano pieces. There have been hackneyed, while many others of equal interest and superior merit are not so well known.
+
+3. Mozart's concertos are so different from our modern style of pianoforte compositions that the beauty is greatly obscured for many. They are not played very often, perhaps for two reasons: 1. There are not many modern pianists who can play them respectably, since they require the old-fashioned wristy finger touch, being made up principally of runs. The tendency of the modern school is to sacrifice the fingers to the wrist and arms. A pianist may play Liszt's Transcendental work acceptably, and yet be unable to give a satisfactory rendering of a Mozart concerto. Altogether a different technique is required. 2. If the very elderly are so set, the great majority of the patrons of music would consider them dull and uninteresting. They are so melodious we want more discord and show in them. They are too artistic and bright—we want more passion in the popular music of to-day; the grand old works of Mozart would be too pure, too mild, too much of the old master. Try the "Grace" in D minor and A major; you will be delighted with them.
+
+Music, in the best sense, does not require novelty, nay, the older it is and the more we are accustomed to it, the greater its charm.—Gounod.
+
+All musical people seem to be happy. It is the engrossing pursuit, almost the only innocent and unpunished passion.—Sydney Smith.
+
+Description of non-textual images and page appearance:
+- This is a scanned page from a printed periodical, laid out in three narrow columns beneath a centered masthead reading "THE ETUDE." with the page number "171" at the top right.
+- There are horizontal rules above and below the title area and a small decorative flourish or rule under the heading "Questions and Answers." No photographic images or illustrations are present—only typographic ornamentation, drop capitals and column rules.
+- The page shows aging signs: uneven margins, faint smudges and spots, and slight darkening around the edges consistent with an old printed sheet.
+172
+
+THE ETUDE.
+
+EMOTION IN PIANO-PLAYING.
+BY JOHANNES WOLFRAM.
+
+No doubt you can recall many a pianistic performance that spoke absolutely nothing to you. You remember the same as an exhibition of digital and manual dexterity, and as a combination of merely agreeable sounds. Have you ever paused to look for the cause of such unsatisfac-tory performances? In such cases, either the composi-tion is minus the elements of an art work, or the interpreter fails to grasp the emotional and intellectual contents. What we do not feel we cannot convey to other hearts, because human hearts are alike the world over. You are carried away by an artistic performance, because the artist is master both of the intellectual and emotional contents and the technical requirements. He speaks to you in tones most poetical. He gives an ideal interpretation of an ideal content.
+
+To further your critical acumen I suggest that, in judg-ing a performance, we ask not does he play brilliantly, because that merely refers to technique, but rather does he play poetically, because this refers to the content of the composition. A performance may be brilliant but without poetry, warmth and color, and vice versa. The guiding of pupils to express the emotional and intel-lectual content of a composition is fraught with numerous obstacles. A child experiences only childlike emotions that are not passionate. The passionate emotions of adolescence are a "terra incognita" to it. The emo-tional and passionate youth, full of hope and courage, little appreciates the emotions of the mature years of manhood. An artist having arrived at ripe manhood, can fully enter into all the emotional experiences of a lifetime. Considering these facts, what should we teach our pupils? Let us give to children compositions breathing the happy atmosphere of childhood. Koehler's "Kinder-Album," Mendelssohn's "Jugendleben," Schumann's "Album," "Kinderlieder," Kullak's Rondinos and Kullak's "Kinderscenen," will be found to furnish quite a selec-tion. When a pupil has arrived at an age when his emotional nature is developing give him Mendelssohn's "Songs Without Words," they are veritable love songs. They suppose an emotional nature, moonlight, stars, etc. I have found that only emotional natures of great ten-derness, refinement and purity can learn to play Mozart satisfactorily. A pupil of mine, of some sixteen sum-mers, with a good deal of technical skill, failed to enter the emotional content of a Mozart concerto. She played with an angularity and a phlegm at times distressing. But one day she surprised me, playing with a warmth, elasticity and inspiration simply wonderful. Heretofore she had played like a child, now she played like a full matured woman with passion and warmth. What caused this metamorphosis? the unfolding of the bud of emotional life into a full blown rose of passionate, true? I rather suspect she was a victim of Cupid's darts; grief and remorse, however, or some other emotional eruption, might have caused it. The lesson we learn from this is, if you do not find your pupils destitute of feeling, and if their minds are not incapable of intellectual culture, do not despair, time and circumstances will accomplish certain things for your pupils that are outside of your present power. You cannot create emotional life, but you can guide it and discipline it. This is the life voca-tion of the teacher.
+
+In study, every composition should be mastered, first, from a technical standpoint, and then from the emotional point of view. Secure a conception of the emotional fabric of the entire composition, afterward consider as far as possible, the emotional content of the dif-ferent periods. Where it is impossible to divide the content, we must conceive for ourselves a content. Gen-erally every composition contains evidence of the con-tent. The touch, the tempo, the rhythm, the accents and the musical idioms furnish us the clue. An adagios, for in-stance, is generally indicative of tender, soulful and reposeful moods; the allegro is indicative of passion and fiery emotions, etc. The rhythm determines, as you all know, usually the character of a composition. The accents are either of an emotional or intellectual nature, and therefore suggestive. The musical idioms for in-stance, "con calore" (with warmth), "con dolore" (with pain), "con anima" (with animation), "con grazia" (with grace), etc., are indicative of emotional feeling. Realistic effects are also suggestive, for exam-ple, the Barcarolle, Op. No. 6, by Tschaikowsky, con-tains a theme giving the effect of the strokes of oars. The introduction to Weber's "Invitation to Dance" is a veritable colloquy, full of grace, of humor, and of emotional tint. The introduction to Beethoven's "Sonata, Op. 13," is also muscular, of tenderness, pathos, and at times of vehemence. A crescendo is an elation of emo-tional impulse, which receives its climax in intense feeling and then enters a depression of an emotion, which like a wave on the bosom of the ocean rising and fall-ing, it stands as the history of an emotional impulse. A staccato marks a violent emotional crisis. An abrupt crescendo, as two short chords at the end of a series of arpeggios in the presto movement of the "Moonlight Sonata" of Beethoven, marks a crisis, a victory over passionate impulse.
+
+To play accompaniments to good vocalists is also of great educational value, as the accompanist must be "en rapport" with the vocalist, so far as the emotional ex-pression is concerned, hence such practice exercises dis-cipline in emotional expression. To give pupils annually the benefit of piano recitals by eminent artists is also of the greatest educational value. One more thought. To play beautifully you must feel beautifully. To illustrate: A student of mine, with a fair musical education, played from an emotional point of view very acceptably for two or three years. During the six months, however, his emotional expression was distorted and paradoxical. I was for a long time unable to overcome these unsatis-factory features of his playing. By accident I learned that through imprudence this student had met with a series of distressed disappointments. As soon as their effect had passed away and the clouds were once more lifted from his mental horizon, he played again acceptably. To sum up; I contend that to become ideal pianists, we must be capable to a high degree of grasping the intellectual and emotional content of music, or, in other words, to develop to a high degree a disci-plined musical nature.
+
+IS THE STUDY OF MUSIC PROFITABLE?
+
+Just now the above question is provoking considerable discussion. Surely, it is an exceedingly important in-quiry. Does it pay; does it educate; does it develop the best faculties in man; does it make one more intel-lectual or refined; does it increase moral strength; does it promote human welfare? Some say yes, very em-phatically, while others are very doubtful, indeed. The following extract is from the distinguished writer and musical thinker, Fr. Niecks, in The London Musical Times:
+
+We hear a great deal about the refining influence of music. But to this art, and indeed to all arts, may be applied what Rousseau said of the sciences: "People always think they have described what the sciences do, when they have in reality only described what the sci-ences ought to do." If, instead of repeating high-sound-ing phrases, we examine plain facts, we come to see that those who doubt and deny the noble capability claimed for music, need not be at a loss for strong arguments in support of their way of thinking. Indeed, looking around us, and scanning the cultivators of the art, of how many of them can we say that they cultivate it with profit? Must we not rather admit that an overwhelming majority waste time, money, energy and their own and other people's patience lamentably? When I spoke of profitableness, I thought of what affects the mind and heart, and through them the whole moral and intellectual man. But even if we take a lower view of music, and regard it as no more than the art of harmonic propor-tions, nay, if we take the lowest possible view of it, and regard it merely as a pastime that pleasantly tickles our ears and agreeably exercises our lungs, fingers, hands, etc., even then our inquiry will have a result which can-not but appear to us in the highest degree unsatisfactory. To be sure, there are now-a-days a goodly—though not a relatively large—number of performers who have at-tained a considerable amount of executive skill, but they are, for the most part, machines rather than artists. We may divide them into two classes—one very numerous, the other much less so. Those belonging to the former are a kind of musical boxes with a limited number of tunes, apt to deteriorate by the wear and tear of time; those belonging to the latter, on the other hand, may be likened to the ingenious contrivance known by the name of pianista, the repertory of which is limited only by the supply of the requisite perforated cardboard. But, after all, genuine music—which is something very different from the usual strumming, scraping, piping and dit- tying—is a powerful means of culture. It is a lan-guage that expresses things which no other language can express, and to which, to an immense extent, civilised humanity is indebted. None the less, I venture to assert that the work of art has been far too much brought before the world by men who, however gifted, have not been trained to wield words properly, and who are unable to give instruction which can deepen and broaden the mind and heart of the pupil. The blame for this state of things, being rather precarious loans than absolute purchases. Where, then, have we to lay the blame for the present unsatisfactory cultivation of music? There can be only one answer: On our teaching. And our teaching is so often a miserable failure, because it is not musical education or, to use the more impressive Saxon equivalent, because it is not a "training out" of the innate musical facul-ties. Ignorant or heedless of their proper function, teachers only too often content themselves with doing for their pupils what the setters of barrels do for barrel organs. I said intentionally that the blame for the pre-sent unsatisfactory cultivation of music is to be laid on our teaching, not on our teachers. For, although the one part of the blame rests on the teachers, another part, though perhaps the greater, rests on the pupils and the parents of the pupils. The most common and most mischievous sins of parents are these three: (1) They hand over their children for elementary lessons to incompetent teachers; (2) they are unwilling to provide them with, or neglect to insist on their submitting to, regular, con-tinuous instruction; (3) they demand immediate results of a kind that can only be obtained by mechanical drill and precludes real education. Hence, the daily con-ditos or tragedies—as we may feel inclined to view them in a teacher's life, the consequences for finishing less-sons by people who, after years of occupations with music, are not yet learned the elements. By earnest advice and stout opposition to parents and pupils, teachers could no doubt lessen the existing evils; but fear of loss of custom, on the one hand, and the unreasonableness and weaknesses of parents, and the indifference, idleness and the impatience of pupils, on the other hand, warn us not to expect too much in this direction. In fact, I think only one remedy can bring about a radical change, and that remedy is the proper cultivation of music in schools, from primary schools upward.
+
+[For The Etude.]
+HOW TO STUDY.
+EUGENE THAYER, MUS. DOC.
+LETTER II.
+
+Our next question is when to study? Most certainly in youth, or the days of young manhood or womanhood. Though your success will not come until middle life or after, the beginnings are all determined in early life. Never talk about studying next year, because you will then postpone it; you will enter upon it at thirty, at forty, and then you will have reaped what you have sown. I have heard people say "I shall study when I am married." Do not talk so. If you have not force of char-acter to overcome present obstacles you will be equally weak and vacillating next year! Do not think that ex-cuses, whether for one thing or another, are going to build you. The world moves on and you are left behind. The thing is not done, and the fact stares you in the face. Think of the man who sits down and begins training lately, and has not read and practiced, as if he were to acquire all he wants at once. Tell yourself that you are not only been idle, but conquered; and the worst part of it is, that you are willing to confess it, and will not help the matter a bit. But you will have some more chances in life and you will not take them. Think of this and see how much freedom you can draw from it: remember that talent is not making laws but only telling you what you are.
+
+The earliest age for one to begin I believe to be at eight; and even then, for the first few years, little should be attempted save the simple melodies and equally simple technics. The hand of a child, at least its framework, is little else than cartilage, and serious malformations of the hand may result from attempts at earlier training, as well as poor health and a sunken organism generally. These phenomena children rarely show till an early age. The fact that now and then one survives only emphasizes the danger. A collateral question is, how late can one begin? I have no hard and fast rule; between forty, though at the age comparatively little can be expected in manual dexterity. Musical theory can be studied at any age. In fact, "It is never too late to mend." Vocal study should never be abandoned until the change of voice is fully established.
+
+Among smaller details it is to be mentioned that one should do his hard study in the early part of the day and should avoid study under the fatigue of labor or in the attack of extreme tiredness. "Evening study," or "burning the midnight oil," is for the most part a failure, though partial or complete. The best time of year is from the middle of September to the last week of the following June. July and August are best used for recuperation, either at mountain or seaside, as a rest and recreation for the system and for the mind. A further point is that many teachers advise to the general benefit of the system. Of course, for young teachers, who cannot then by any other means, these months to be taken in the summer should, which give not only a great mental and feeling but also strengthen the general health of the voice. Those with a keen ear and a warm heart must, by chance, choose the time best suited for their development.
+
+An artist who always moves in the same style and groove becomes in the end a pedant and mannerist; and nothing does him more harm than to content himself too long with a given style, simply because it is convenient.
+—Schumann.
+
+Description of non-textual elements:
+This page is a scanned newspaper or magazine page laid out in three dense columns of small serif type. At the top center is the publication title "THE ETUDE." The page number "172" appears at the top left. There are no photographs; only typographic ornamentation and column rules. The visible decorative elements are small horizontal rules separating headings and occasional brackets around "For The Etude." No illustrations or portraits are present.
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+From "Time and Measure" by E.W. Krause. Just Published.
+
+Description of non-textual content:
+A scanned, slightly aged page showing six short piano exercises or examples arranged vertically and numbered 10 through 15. Each example is written on a grand-staff (treble and bass clefs joined by a brace) with multiple measures of standard musical notation: noteheads, stems, beams, bar lines, rests, and accent marks ( > ) frequently placed above/below many notes. The notation includes melodic lines in the right hand and accompanying figures in the left hand, with occasional slurred groups and stems indicating rhythmic groupings. The page border shows light foxing and wear typical of an older printed music page. The footer line with the publication credit appears centered at the bottom.
+16.
+17.
+18. Tied Notes.
+19.
+20.
+
+From "Time and Measure" by E.W. Krause. Just Published.
+
+Description of non-textual images:
+- The page is a printed music page showing five short piano exercises (numbered 16 through 20). Each exercise is set on a grand staff (treble and bass clefs connected with a brace), with a key signature of one sharp (F#) at the beginning of each staff.
+- Exercise 16 and 17 appear at the top in two short systems, with melodic passages in the treble and accompanying figures in the bass. Accents (>) appear on some notes.
+- Exercise 18 is labeled "Tied Notes." and contains multiple ties and slurs connecting notes across bar lines, emphasizing sustained pitches while the accompaniment moves. Accent marks are present above some notes.
+- Exercise 19 shows similar patterned figuration with accents and tied notes; both staves contain beamed groups of eighth/sixteenth notes.
+- Exercise 20 (two systems) contains many triplet groupings, indicated by small numeral 3s above or below beamed groups, with slurs and accents; the bass and treble have interlocking triplet figures.
+- Overall notation includes clefs, bar lines, beams, ties, slurs, accent marks, and numerous small digit "3" triplet markings. The paper shows slight aging and printing noise around the margins.
+DOLLY'S DANCE.
+
+No. 8.
+
+Polka time.                             J. OTTO.
+
+mf
+>
+f
+p
+mf
+p
+mf
+f
+marcato
+mf
+
+Ped.
+Ped.
+Ped.
+Ped.
+Ped.
+Ped.
+Ped.
+Ped.
+Ped.
+Ped.
+Ped.
+Ped.
+
+Copyright 1888 by Theo. Presser.
+
+Description of non-textual content:
+- A full-page engraved piano score (antique sheet music) with four staves/systems of grand-staff notation (treble and bass clefs) showing notes, rests, beams, slurs, staccato and accent markings, and finger-number annotations (small digits 1–5) printed above many notes.
+- Numerous dynamic markings (mf, f, p, marcato) and accent signs printed in the music. Repeated "Ped." indications under many measures with accompanying release symbols (asterisk-like marks) and ornate flower/asterisk symbols used as decorative or pedal-release markers under several measures.
+- The page has an aged, vignetted border with slight foxing and wear consistent with an 1888 publication.
+Extracted text (exact words and symbols visible on the page)
+
+Ped.
+Ped. *
+Ped. * (Ped. followed by small star/asterisk symbols appears repeatedly under many measures)
+p
+f
+mf
+marcato
+1 2 3 4 5 (fingering numbers appear above and below many notes throughout the score)
+Dolly's dance.
+
+Notes about the text:
+- The abbreviation "Ped." (often followed by a small star/asterisk-like release symbol) is repeated under many measures throughout the page.
+- Single-letter dynamic markings "p", "f", and "mf" appear at several places in the staves.
+- The word "marcato" appears near the right side of the third system (above the upper staff).
+- Fingering numerals (1, 2, 3, 4, 5) are printed above and below many individual notes across the systems.
+- The title or caption "Dolly's dance." appears at the bottom left of the page.
+
+Description of non-textual content (detailed)
+- The image is a scanned page of piano sheet music (a single page) containing five systems of grand-staff notation (each system consisting of a treble clef staff above and a bass clef staff below, bracketed as a piano score).
+- Each system contains standard Western musical notation: measures, barlines, noteheads, stems, beams, rests, slurs, ties, articulation marks (accent >), and dynamic markings.
+- There are many chordal left-hand accompaniments with block chords in the bass clef and a more melodic right-hand in the treble clef. Several measures show repeated chords and typical pedaling indications ("Ped." with a release symbol/asterisk).
+- Fingerings (small numerals 1–5) are printed above and below many notes indicating suggested finger placement for both hands.
+- Articulation marks include accents (>) on many chord attacks and occasional staccato-like markings. Curved slurs connect melodic phrases in the treble staff. There are a few crescendo/decrescendo style hairpins but these are minor compared to the letter dynamics.
+- The page has a faint aged/scan border and slight smudging/noise from the scan; there is a dark vertical margin on the left side consistent with the spine edge of a scanned book.
+- Overall the page is a clean classical-era piano piece layout with multiple repeated pedaling and dynamic instructions and one explicit textual tempo/character marking "marcato."
+No. 1.
+ELFIN DANCE.
+Allegro.
+Thomas Tapper Jr.
+pp
+p
+cresc.
+f
+cresc.
+Copyright 1888 by Theo. Presser.
+8
+
+Description of non-textual images:
+The image is a single page of printed piano sheet music. It contains five systems of grand-staff notation (each system with a treble and bass staff joined by a brace at the left). The staves are filled with standard musical notation: clefs, key and time signatures, measures, beams, stems, many eighth- and sixteenth-note figures, chordal accompaniments in the left hand, slurs and phrase markings, accent marks, and occasional fermata-style or pause marks above certain notes. There are dynamic markings and hairpins associated with the music (as transcribed above). The page shows some light aging and darkening at the edges and faint speckling from the scanning or printing process. The bottom of the page carries the copyright line printed centered. The overall layout is that of a 19th-century piano piece, title centered at the top, composer name at the upper right, and printed musical systems occupying the remainder of the page.
+Extracted text:
+4
+
+Tapper, Elfin Dance
+
+Description of non-textual image:
+A scanned sheet-music page (slightly tilted) showing five systems of piano grand-staff notation (treble and bass clefs bracketed together). The page has a dark left margin from the scan. The notation includes many arpeggiated accompanimental figures, slurs, staccato markings, and dynamic markings such as p, pp and ff throughout the staves. Clefs, key-signature sharps, barlines, beams, and a variety of note values (eighths, sixteenths, etc.) are present. There are a few small handwritten/printed marks near the top center of the page and some light smudging and wear at the page edges. The printed text at the bottom left of the page reads the composer/title line shown above.
+Extracted text (top-to-bottom, left-to-right):
+
+5
+
+p
+p
+
+Basso staccato al Fine.
+
+pp
+
+cresc.
+
+f
+pp
+ppp
+
+Tapper, Elfin Dance
+
+Description of the non-textual content:
+
+A single page of printed piano sheet music (grand staves) with five systems of music. Each system shows a treble and bass staff joined by a brace on the left; the music contains many measures of flowing right-hand melody with slurs and left-hand accompanying broken-chord (arpeggiated/oom-pah style) patterns. There are numerous musical symbols: treble and bass clefs, key signature (appears to include F-sharp/C-sharp accidentals), beams connecting groups of eighth- and sixteenth-notes, dotted rhythms, ties and long slurs spanning phrases, staccato markings on some bass notes, and dynamic markings (p, pp, cresc., f, pp, ppp) placed at appropriate points. Near the middle-right of the page the text instruction "Basso staccato al Fine." is printed above the bass staff. The page has light aging: slightly darkened edges, small smudges and faint spots, and a darker right-hand margin. The bottom-left corner contains the printed title/credit "Tapper, Elfin Dance."
+2
+
+MUSTERBILDER.
+(IDEAL PICTURES)
+
+No. 1. Gewissheit. (Certainty.)
+
+HELEN A. CLARKE.
+
+Allegretto.
+
+[Within the music systems the following visible textual markings appear:]
+p
+rit.
+a tempo
+Ped.  (with corresponding release asterisks "*")
+*  (asterisk pedal-release marks appear under several measures)
+finger numbers above notes (1 2 3 4 5 and occasional small digits near notes)
+
+Copyright 1888 by Theo. Presser.
+
+Description of non-textual content:
+This is a single printed piano sheet-music page. At top center is a decorative title area with the German title "MUSTERBILDER" and the English parenthetical translation "(IDEAL PICTURES)"; underneath is the piece number and title "No. 1. Gewissheit. (Certainty.)" and the composer name "HELEN A. CLARKE." Below the title are four systems of piano notation (treble and bass staves joined by braces) containing musical notes, rests, slurs, dynamic markings, articulation marks, fingerings, pedaling marks, and small editorial symbols. The left-hand margin shows the page number "2." The notation includes curved slur lines, stems, beams, and ledger lines; there are pedal lines marked with "Ped." and asterisks for releases. Several measures include the tempo/directional words "Allegretto," "a tempo," and "rit." The page has signs of age or scanning artifacts: slight darkening and spotting around the edges and a dark strip along the left edge of the scan.
+Extracted text (all visible textual elements):
+
+8
+
+rit.
+rit.
+
+a tempo
+
+Certainty-2.
+
+Note: numerous small fingerings (1 2 3 4 5) appear above and below many notes throughout the staves.
+
+Description of non-textual content:
+
+A scanned page of piano sheet music showing five systems of grand-staff notation (treble and bass clefs) with many measures of musical notes, slurs, ties, stems, beams, rests, and chord symbols. The engraving includes dynamics and expression markings (aside from the readable "rit." and "a tempo"), frequent finger-number annotations, and barlines. The page shows slight aging and margin wear; the notation is printed in black on a white/cream background.
+No 3. Unruhe.(Unrest.)
+HELEN A. CLARKE.
+
+Presto.
+p legg.
+cresc.
+pp
+
+Copyright 1898 by Theo. Presser.
+
+Description of non-textual content:
+A full-page black-and-white scanned sheet of piano music. The page contains five systems (grand staves) of piano notation: each system with a treble and bass staff joined by a brace and barlines. The music shows clefs, a two-flat key signature, numerous notes, rests, beams, slurs, staccato marks, dynamic markings, and small finger numbers above and below many notes. The notation includes repeated arpeggiated and broken-chord figures, chordal passages in both hands, and accenting suggesting a rapid, agitated character. The page shows some aging and spotting around the margins and faint wear marks along the edges; the copyright line is centered at the bottom.
+POLONAISE.
+
+Revised and Fingered by KARL KLAUSER.                         F. CHOPIN, Op. 40. No. 1.
+
+Allegro con brio.
+
+[Score text elements repeated throughout the staves]
+f
+Ped.
+*
+ff
+ff>
+Ped.
+Ped.
+Ped.
+Ped.
+Ped.
+Ped.
+Ped.
+Ped.
+(There are many repeated occurrences of "Ped." beneath measures, often paired with asterisk marks "*" to indicate pedal release; dynamic markings "f" and "ff" appear in several places; small finger-number digits appear throughout the score beside notes.)
+
+2
+
+273
+
+Copyright 1885 by Martens Brothers.
+
+Description of non-textual content:
+A full-page engraved sheet-music scan of Chopin’s Polonaise (Op. 40, No. 1). The page contains five systems of grand-staff piano notation with treble and bass clefs, multiple measures of densely notated notes, chords, triplets, slurs, accent markings, dynamic markings, fingerings (small numbers beside notes), pedal indications ("Ped." with asterisks), and bracketed pedal lines. The paper shows aged speckling and slight edge wear; engraving is ornamental with stems, beams and heavy chord groupings characteristic of a virtuosic piano piece.
+3
+
+Seconda Volta.
+energico.
+
+ff
+fff
+cres. (cresc.)
+
+Ped. (Ped.) — repeated many times, often paired with asterisk * symbols indicating release
+* Ped. * Ped. * Ped. * Ped. (asterisks appear throughout paired with Ped.)
+
+p
+sf
+f (and ff seen earlier)
+
+Fingerings: numerals 1 2 3 4 5 appear throughout the score above and below many notes (triplet markings show the numeral 3 in several places)
+
+272 (small plate number at lower left)
+
+Description of non-textual image content:
+A single scanned page of piano sheet music (grand staff) with heavy black printed musical notation. The page shows five systems of music for piano, each with treble and bass staves joined by a brace. Many densely notated chords, repeated chordal figures, arpeggiated passages and rapid note clusters are present. There are numerous articulation markings (slurs, accents, staccato/dot-like marks), dynamic markings (ff, fff, p, sf, cresc.), triplet brackets and tuplet numbers, and 8va-like octave indications in some passages. Pedal markings (Ped. and asterisks for release) are printed frequently beneath the staves. Small finger numbers (1–5) are printed next to many notes. The page has signs of printing age: slight darkening along the left margin and some faint smudging. The top-left corner bears the page number 3 and the lower-left margin shows the small number 272.
+Extracted text (visible words, letters, numbers, and printed markings):
+
+4
+
+132 132 132 132
+
+a tempo.
+
+ritenuto.
+
+cresc.
+
+ff
+
+fff
+
+p
+
+Ped.  (appears many times throughout the page, always written as "Ped." with release asterisks)
+
+*  (asterisk pedal-release marks appear repeatedly throughout the systems)
+
+cresc.  (appears again near the lower systems)
+
+272  (small printed number at bottom left)
+
+Other visible textual/finger markings appearing throughout the score (individual digits and small numbers):
+1 2 3 4 5 8  (finger numbers and small numeric annotations appear above/between notes in many places)
+
+Non-textual image description:
+
+A single scanned page of piano sheet music (page number "4" at the top right). The page contains five grand-staff systems (treble and bass staves paired), densely filled with musical notation: many stacked chord clusters, arpeggiated figures, beamed runs, and thick block chords. There are numerous slurs, accents, hairpins (crescendo/decrescendo markings), and dynamic markings (ff, fff, p). Pedal indications ("Ped." followed by asterisks for release) appear repeatedly beneath the bass staff across nearly every measure. Finger-number annotations are printed near many notes. The engraving is slightly aged/grainy with darker ink in some chord clusters and small printer blemishes around the page edges.
+5
+
+(Repeated throughout the score)
+Ped.
+*
+3
+>
+ff
+f
+272
+
+Description of non-textual content:
+A full page of piano sheet music (two staves per system with treble and bass clefs), printed with many measures of dense notation: chords, arpeggios, triplet groups (marked with small "3"), slurs, accents (">"), dynamic markings (f, ff), pedaling indications ("Ped." with release asterisks "*"), and numerous ledger lines and stems. The page has a dark binding strip along the left edge and light aging/scan artifacts around the margins. The key signature shows three sharps. There are six systems of grand-staff piano notation filling the page.
+Extracted text:
+
+21. Syncopated Notes.
+
+22.
+
+23.
+
+24.
+
+25.
+
+From 'Time and Measure' by E. W. Krause. Just Published
+
+Description of non-textual images:
+
+The page is an aged, slightly stained and speckled sheet from a music book showing five short piano exercises arranged vertically on the page, numbered 21 through 25. Each exercise is printed as a two-staff grand staff (treble clef above, bass clef below) with bar lines, musical notes (quarter notes, eighth notes, beamed notes and rests), slurs and many accent marks (>) aligned beneath or above several notes indicating emphasis. The exercises illustrate syncopated rhythmic patterns; several measures show tied notes and off-beat accents. The musical systems are separated by generous white space. The page edges are darker and show wear and light mottling from age; the printing is slightly faded in places but the notation and numbers remain legible.
+26. Studies with Rests.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+From "Time and Measure" by E. W. Krause. Just Published.
+
+Description of non-textual images:
+- The page is a printed music manuscript containing six short piano exercises, numbered 26 through 31, arranged vertically with generous spacing. Each exercise is shown on a grand staff (treble and bass clefs joined by a brace at the left).
+- The staves contain standard musical notation: clefs, key signatures, time signatures, barlines, note heads, stems, rests, and accent marks (greater-than symbols) above many notes. The left-hand staff (bass clef) mainly shows single bass notes or simple accompaniment patterns with rests; the right-hand staff (treble clef) shows the melody with mostly single-note rhythms in exercises 26–30 and denser eighth- and sixteenth-note patterns in exercise 31.
+- Exercise 26 is labeled with the subtitle "Studies with Rests." and consists of very simple, widely spaced measures emphasizing rests and isolated notes with accent marks.
+- Exercises 27–30 are similar short studies focusing on rests and accented single-note patterns in both hands, each spanning several measures across one system.
+- Exercise 31 is more complex, featuring flowing groups of eighth and sixteenth notes in the right hand with accompanying patterns in the left hand; accent marks still appear regularly.
+- The page shows light age-related speckling and margin wear; printing is black on a light background. The footer line credits the source: From "Time and Measure" by E. W. Krause. Just Published.
+THE ETUDE.                                                                                       173
+
+EDITORIAL NOTES.
+
+Teachers can never afford to discontinue special preparation for their special tasks. Each lesson deserves thoughtful consideration. Each pupil requires special attention. Each year should witness growth in the teacher's conceptions, methods and aims.
+
+Much more is required of professional men in these days than formerly. The doctor must read at least one first-class medical journal, or he soon falls far behind the age. Everything is being investigated according to scientific methods, facts are being collected, authenticated and recorded, hypotheses are being tested, theories being established, and progress being made in real knowledge every day. The lawyer who never reads his numerous law journals may at once surrender his position at the bar, and step out of the profession. His collegiate training may have been of the highest character, his familiarity with books extensive, his natural ability unsurpassed. But important decisions are being rendered daily, new questions are arising constantly, new issues are perpetually being brought to the front, and being effectually disposed of, and the wide-awake lawyer is the only means of obtaining the necessary information. Without it, the poor attorney finds himself out of the current of modern legal thought.
+
+The musician is even more helpless than either the doctor or the lawyer. Music-teaching is scarcely yet a profession in the strict sense. Very little classified knowledge of musical pedagogy has even the most intelligent teacher acquired. Until recently the whole subject has been in confusion. Its condition is very little better than chaotic yet. The subject is just now exciting the interest of the world. The very best teachers have just discovered that their "methods," formerly adhered to with so much stubbornness, are perfectly contradictory to those of equally successful teachers, and the most vital questions are being discussed, and some of them are being settled. The teaching methods of the present day are different altogether from the methods of a few years ago. New changes are likely to occur constantly for some time to come, and the teacher who holds on to the "old fashioned ways" will surely reap the bitter reward of his negligence.
+
+Sometimes we hear a teacher say: "I like The Etude very much indeed; it is a fine journal, and deserves success. But, really, I have not the time to read a music journal." A prominent teacher of music in a large western city has had to say that he had finished the study of music long ago, and that there was nothing new to be acquired, as far as mere knowledge of piano music was concerned. This may sound strange, but it is an actual fact, and attested by intelligent and trustworthy persons. The truth was, of course, that he did not realize the value of the thousand "new" things that he might have added to his store of information, and, therefore, he did not keep up with the world's progress. The music journal is indispensable to the music teacher who aspires to know how the musical world is going, what are the important channels of current thought, what methods are being abandoned, and how they are being replaced. A large number of the greatest artists in the world read such journals every month, and make practical use of their contents. Be not only a subscriber, but also a thoughtful, careful reader.
+
+It is curious how absurdly some intelligent people will talk when they begin on musical subjects. Men who are so well informed about a hundred other branches of Art and Science that they are really considered high authority on all subjects of polite literature, men who have been liberally educated, and trained in many schools, often exhibit the most deplorable ignorance concerning all musical matters. A prominent citizen in an eastern city, who ranks high in literary, social and business circles, and of great wealth and refinement, was sure in his manner that a certain song, once asked whether there is any truth in a report that had come to his ear to the effect that the "German style of piano-playing was about to be introduced into this country."
+
+The daughter of a distinguished Southern banker, who had just returned from Europe, said that she did wish our American piano-students could just see some of the excellent editions of the classics they have published in Germany. "I found," she continued, "that the Americans did not know how to finger the Beethoven sonatas, for instance, and I made an arrangement with a firm in Vienna, by which I could order an edition fingered by Von Bülow." In this young lady's own city, within ten minutes' walk of her own door, she could have found the very same edition of Beethoven long before she went to Europe.
+
+But the San Francisco Chronicle reaches the climax. Here we have the startling announcement that the German Technique has been introduced in San Francisco. It is in order now for somebody to make the discovery that there are quite a number of men and women in this country, and making it their permanent home, who were actually born in Germany. Yes, it is a fact; several German families have actually emigrated to America, and some of them have brought their "technique" along with them.
+
+Here is an extract from the article in the Chronicle: "In this city the German system has only just been introduced, but it has so captured the hearts and minds of those musically inclined as to become a rage. It has been introduced in the conservatories and private schools, and already shows remarkable results. Teachers are discarding the old methods and are adopting the new, which makes for freedom, power and musical expression. Formerly pupils were trained almost exclusively by routine, and the manipulative art was left to chance. Now the art is systematized; the pupil is taught how not to waste his strength, how to obtain a pure tone, and how to secure facility and precision. All critics acknowledge the improvement, and the musical public already recognize the advantage."
+
+The following from the Public Ledger (Philadelphia), of Friday, October 26th, will prove interesting to American composers:—
+
+"Canada, in great things and small, from the fisheries to the post-offices, has tried the coercive policy, and always with the same result—dire failure. Now the Copyright Association of the Dominion, the members of which are made up of authors, publishers, printers, and newspaper makers, who have prepared a draft of a copyright act which is proposed shall be made law, and which, according to the chairman, Mr. Harris, has the warm approval of many of the United States authors, and, in view of the fact that the United States authorities have been petitioning for international copyright, the case is now a most interesting one to watch. Anything that tends to bring the writers of the two countries together, and to secure to them a fair remuneration for their labors and their brains, is to be welcome. The movement is in the interest of American authors, and in the interest of good literature in Canada and in the United States. The association proposes to give its support to the passage of such a law as will, to their view, accomplish the object in both countries."
+
+It is a matter for congratulation that the idea of reciprocal copyright with England and the Continent is being more and more talked of. While it is true that the question is involved with many difficulties, and that interests are to be reconciled, yet the principle is sound, and if clearly and honestly presented to the public, will, in our opinion, receive their sanction. The passage of any law which will protect the interests of living authors, and provide for a just remuneration, is a step in the right direction, and will result in better literature and better musical composition.
+
+Let us do our share to encourage American composers by paying for the music we use. The times are hopeful in that respect. Publishers are willing to do their part, writers are coming to the front, and a more liberal public will yet be found to aid them. A little more appreciation by the public and the press—less of petty criticism and more of heartfelt encouragement—would do more to elevate our national music than a whole volume of learned essays.
+
+[FOR THE ETUDE.]
+
+SOME HINTS FOR TEACHERS.
+
+BY C. A. WHEELER.
+
+Will you please add my views on the requirements of a music teacher to those of Mr. E. E. Ayres:—
+
+1st. Be at all times gentlemanly or ladylike in manners.
+
+2d. Be enthusiastic and improve the interest as well as the progress of every pupil. Frequent reviews are instructive.
+
+3d. Find out the likes and dislikes of each pupil, and give consideration to the matter, that each case may be suited to, and will preserve until some little gives way; allow the pupil to outgrow the necessary ugliness and then do not clip the nails, etc., too soon.
+
+4th. Speak encouragingly of your pupils when you can in the company of other parties; every word you say gets back to the pupil's ear, and nothing discourages him more than to hear that you said he was bad at his lesson, or in other ways was not doing well, or that you did not like him as well as you do Mr. — or Miss —.
+
+5th. If people think you do not care for music or musicians, let them get a cheaper teacher, but if you reduce the price of your own services you will also lower the standard of music teaching, and that will be a great loss to the community.
+
+6th. If a pupil is not practicing, write a line to the parent and do not be ashamed to call your pupil's attention to the fact that his progress is slow for want of practice. Be persistent in this matter, and the majority of pupils will soon fall into line.
+
+7th. Never give a pupil anything difficult that you have not the time to watch and assist with, nor such things as will require lessons daily and which the pupil cannot secure.
+
+8th. Never call a pupil unfeelingly a "slow learner." It does not improve them. Encourage them, and be patient.
+
+9th. Play fairly well on the kind of instrument that you profess to teach, as a piece has new charms to the pupil if he hears it well played. Hold a pupil on a piece until you are sure he can do it.
+
+10th. Be not over-anxious to leave out this thing or that thing simply because your pupil prefers a little about it. Wait until you give permission to omit some portion, and then it will be more willingly omitted without complaint.
+
+11th. Explain thoroughly whatever matter you present, follow up with examinations, give examples, then explain again. If it is not given, the next lesson go over and practice the omitted work. A copy will often do more than any amount of talking.
+
+12th. Read about music, musical people, instruments, acoustics, etc., and be well informed on all the news-paper topics of the day.
+
+13th. Be naturally modest, never to excess. Do not assert authority that you are not warranted to possess. Know your limitations. Do not make false claims for yourself, but show that you are competent and reliable.
+
+14th. Call no pupil an "excep" for some particular purpose. Never linger after your hour to give a private lesson to some pupil, thereby showing favoritism. If you have a pupil who needs extra lessons let the matter be arranged fairly and openly with the parent.
+
+15th. Be sociable with your patrons, but do not let familiarity breed contempt. Keep a professional distance and respect.
+
+16th. Always remember you are a teacher of the art of music which is a refined profession. Hold high standards and keep well with your profession.
+
+SQUARE VERSUS UPRIGHT PIANOS.
+
+EDITOR OF THE ETUDE:—
+
+I would be glad to see a general expression from our readers on the subject of the upright versus the square piano. I object to the upright because of its weakness and want of support, its harps and action are too light, and the result is in a great measure a paucity of tone. On the other hand the square instrument is heavy, cumbersome, occupies too much room, and the action is not always as accessible for adjustment as could be desired. It seems to me that the best qualities of both could be combined in a new form which would obviate the defects of both. I have always felt that the upright will be the instrument of the future for the general family use, but that it must be improved in tone and mechanism to be worthy of that position. Respectfully yours,
+
+A. H. D.
+
+[At bottom of page small ads and notices not clearly legible in the reproduction.]
+
+Description of non-textual images on the page:
+- Decorative page header reading "THE ETUDE." in large serif capitals centered at the top, with the page number "173" at the upper right. Thin rule lines run above and below the header across the page.
+- The layout uses column rules and boxed headings (e.g., the "FOR THE ETUDE." box heading preceding "SOME HINTS FOR TEACHERS"). There are no photographs or pictorial illustrations on the page; the non-text elements are typographic: rules, column dividers, and decorative type for headings.
+174                              THE ETUDE.
+
+SCIENTIFIC INVESTIGATION APPLIED
+TO THE ANATOMICAL DETAILS IN-
+VOLVED IN PIANO PLAYING.
+
+In last month's issue of THE ETUDE (October)
+there appeared, in the column of "Practical
+Letters to Teachers," a letter from a piano-
+player, signed G. W. J. (page 156), in which
+he thanked Mr. W. S. B. Mathews for his advice,
+"to abandon his old system of practice and adopt
+Mason's Technicon and the Technicon." After a
+few months' experience with this combination, he
+says: "I wish, in particular, to acknowledge my
+indebtedness to the Technicon, for without it I do
+not believe I could have accomplished anything,
+owing to the helpless condition of my hands
+before using it. My confidence in this inven-
+tion, and my interest in the theories on which it
+is founded are unlimited. I believe I could write
+a whole volume in its praise. I thought my
+trouble was caused by stiff muscles and joints; the
+Technicon has proved this to be a mistake, and
+taught me a great many technical secrets, one of
+which is the ability to use one muscle or set of
+muscles while all the others are kept at rest and
+under control. The inability to do this was the
+obstruction to my progress. This is but one of
+many advantages I have gained through the
+Technicon."
+
+This anonymous contribution of testimony
+in regard to the merits of my invention I pro-
+pose to take as a basis for the following short
+explanation of a few of its salient points, with
+a view of demonstrating how such important
+results are attained. And here I would call
+attention to the fact, that what Schumann so
+
+DIAGRAM 1.
+
+called "the inability to use one muscle, or set
+of muscles, while all others are kept at rest
+and under control," as mentioned above.
+
+Such results as those attained by G. W. J.
+are of double importance, in that they not only
+counteract the one-sidedness upon the hands'
+mechanism caused by key-board practice, but
+they include additional results to those which
+are obtainable by key-board exercise; so that
+the ultimate or maximum capability of a pian-
+istic hand cannot be reached by means of the
+key-board only, in that there remains in the
+anatomical details portions that are capable
+of further development. This is what scientific
+investigation shows to be the case; and it is
+practically demonstrated, to an eminent degree,
+by the small and inadequate results obtained,
+(as compared with the large expenditure of time
+involved) upon key-board technical exercise.
+
+Let any piano player undertake to practise the
+three exercises with lever on right-hand side of
+the Technicon, prescribed for the extensor mus-
+cles in the "Technicon Instruction Book" (say
+for fifteen minutes a day for a week), and the
+results will be most marked. Each of these
+three exercises brings into action, in a specific
+manner, the extensor or raising muscles, both of
+wrist and fingers, while their counter muscles
+(or striking muscles) are doing no work what-
+ever; thus the necessary counteraction in the
+hand's mechanism is developed, causing better
+control of balance and equipoise in its powers
+of manipulation. The necessity of this atten-
+tion to the specific development of the raising
+
+muscles is now becoming recognized by many
+teachers, and especially by those who have
+studied the physiological reasons therefor (vide
+October number of ETUDE, page 157). I will
+now take the three exercises alluded to, and by
+means of the accompanying diagrams endeavour
+to explain their use, with a view of giving those
+unacquainted with the practical side of my in-
+vention some insight into the same. The
+first exercise brings into specific action the three
+muscles which raise the hand bodily at the
+wrist. These muscles are attached to the bones
+of the middle hand and pass up the middle
+arm on its upper side, as shown by the three
+upper dotted lines in Diagram 1. The manner in
+which these muscles are brought into action by
+means of the Technicon is shown by Diagram 2,
+in which the arm is allowed to rest upon the
+cushion B, and the lever extremity A rests upon
+the hand, as shown. The degree of pressure
+upon the muscles is regulated by a weight C,
+which slides upon the lever, and can be ad-
+justed to any position thereon. It will be
+readily seen that the arm being stationary, and
+the hand made to move from the wrist in an up-
+ward and downward movement, the three upper
+
+DIAGRAM 3.
+
+"the inability to use one muscle, or set of muscles,
+while all others are kept at rest and under con-
+trol," as mentioned above.
+
+Such results as those attained by G. W. J.
+are of double importance, in that they not only
+counteract the one-sidedness upon the hands'
+mechanism caused by key-board practice, but
+they include additional results to those which
+are obtainable by key-board exercise; so that
+the ultimate or maximum capability of a pian-
+istic hand cannot be reached by means of the
+key-board only, in that there remains in the
+anatomical details portions that are capable
+of further development. This is what scientific
+investigation shows to be the case; and it is
+practically demonstrated, to an eminent degree,
+by the small and inadequate results obtained,
+(as compared with the large expenditure of time
+involved) upon key-board technical exercise.
+
+Let any piano player undertake to practise the
+three exercises with lever on right-hand side of
+the Technicon, prescribed for the extensor mus-
+cles in the "Technicon Instruction Book" (say
+for fifteen minutes a day for a week), and the
+results will be most marked. Each of these
+three exercises brings into action, in a specific
+manner, the extensor or raising muscles, both of
+wrist and fingers, while their counter muscles
+(or striking muscles) are doing no work what-
+ever; thus the necessary counteraction in the
+hand's mechanism is developed, causing better
+control of balance and equipoise in its powers
+of manipulation. The necessity of this atten-
+tion to the specific development of the raising
+
+muscles is now becoming recognized by many
+teachers, and especially by those who have
+studied the physiological reasons therefor (vide
+October number of ETUDE, page 157). I will
+now take the three exercises alluded to, and by
+means of the accompanying diagrams endeavour
+to explain their use, with a view of giving those
+unacquainted with the practical side of my in-
+vention some insight into the same. The
+first exercise brings into specific action the three
+muscles which raise the hand bodily at the
+wrist. These muscles are attached to the bones
+of the middle hand and pass up the middle
+arm on its upper side, as shown by the three
+upper dotted lines in Diagram 1. The manner in
+which these muscles are brought into action by
+means of the Technicon is shown by Diagram 2,
+in which the arm is allowed to rest upon the
+cushion B, and the lever extremity A rests upon
+the hand, as shown. The degree of pressure
+upon the muscles is regulated by a weight C,
+which slides upon the lever, and can be ad-
+justed to any position thereon. It will be
+readily seen that the arm being stationary, and
+the hand made to move from the wrist in an up-
+ward and downward movement, the three upper
+or raising muscles of the hand (which have to
+overcome the weight of the hand) are brought
+into contractile action in overcoming the pressure
+brought to bear by the lever. The motion pro-
+duced should be slow, especially as regards the
+downward movement, which then becomes due
+to a controlled relaxation of the muscles in ques-
+tion, a desideratum of vital importance to the
+piano player. The muscles thus brought into
+specific action are the muscles which raise the
+hand in octave playing, and upon the strength
+of which depends the control of delicacy of touch in
+octave work.
+
+DIAGRAM 2.
+
+earnestly sought for, viz.: The elimination of
+physical obstructions to his piano playing, which
+his lack of scientific knowledge caused him to
+permanently injure his hand in his endeavors to
+accomplish (hence his disappointment and con-
+sequent oft-quoted maxim), this great desidera-
+tum has now been accomplished by means of a
+better acquaintance with the physiological side
+of the subject, and the application of correct
+and scientific principles thereto. This I feel
+justified in asserting from the practical results
+which have been obtained, by eminent pianists
+and their pupils both in Europe and America,
+by means of my scientific method of hand-
+training, and in regard to which the readers of
+THE ETUDE have had placed before them, for
+some time past, the testimony of eminent
+pianists, as to the excellent practical results ob-
+tained, both with their pupils and themselves,
+by means of my scientific hand gymnasium,
+the Technicon. The second exercise is intended to bring into
+
+DIAGRAM 4.
+
+Description of non-textual images on the page:
+
+- Diagram 1: A detailed anatomical drawing of a human forearm and hand in an extended position, showing the bones and some muscle/tendon lines. The long bones of the forearm are labeled ULNA (on the inner/pinky side) and RADIUS (along the lower forearm). The upper arm bone is labeled HUMERUS (shown vertically where the elbow would be). Dotted lines indicate three muscles passing from the middle of the hand up the upper side of the forearm toward the humerus. The hand is shown palm down with fingers extended. (Caption beneath: DIAGRAM 1.)
+
+- Diagram 2: A schematic side-view sketch of the Technicon lever apparatus in use. The forearm rests on a cushion labeled B; a lever arm is shown with its extremity A resting on the back of the hand. A sliding weight on the lever is labeled C (used to regulate pressure). The drawing shows the lever applying pressure to the hand while the forearm is supported by the cushion. (Caption beneath: DIAGRAM 2.)
+
+- Diagram 3: A second anatomical drawing of the forearm and hand, showing the RADIUS prominently labeled along the forearm and the HUMERUS at the elbow. The hand is shown extended; the image emphasizes the bony structures and the path of extensor muscles. (Caption beneath: DIAGRAM 3.)
+
+- Diagram 4: Another schematic of the Technicon lever arrangement with a different hand/leverage position. The lever is shown with two labeled points A and B; the hand is drawn beneath the lever showing how pressure is applied to bring specific muscles into action. A pivot or support for the lever is sketched to indicate how the device is set up for exercise. (Caption beneath: DIAGRAM 4.)
+
+Note: The page contains repeated paragraphs owing to layout and column flow; the transcription above preserves the readable article text and captions as they appear on the scanned page.
+THE ETUDE. 175
+
+action the extensor or raising muscles of the fingers (the middle hand being now kept still). These muscles are shown by Diagram 3. They are situated on upper side of fingers, and also pass through the wrist and along upper side of middle arm, where they join into one, as shown. They are brought into specific action by means of the Technicon as shown by Diagram 4. The arm is allowed to rest on cushion and the middle hand kept at rest (i. e., from the wrist to the knuckles); the fingers are then allowed to move up and down from the knuckles, thereby bringing their raising muscles into contractive action in overcoming the pressure brought to bear upon them by the lever and weight. This system of muscles has a very important functions to perform in their relation to piano playing; but the keyboard, unluckily, does not, and cannot reach them in a specific manner, as the action of striking the keys continually and specifically develops their counter-muscles on opposite side of fingers, which by nature are the strongest. To subdue and control the action of these stronger muscles, the Technicon exercise now under consideration is specially devised, and when thus strengthened, the important functions of the raising muscles can be brought to bear in holding a controlling influence over their antagonistic (or striking) muscles, and herein is involved the control of delicacy of tone production by the fingers.
+
+It will be plainly seen by Diagrams 1 and 3 that two distinct systems of muscles are separately brought into action, thereby giving a discriminating control over them.
+
+The third exercise involves the powers of relaxing the wrist muscles, while the upper or extensor muscles of the fingers are in contraction. This is done by holding the lever as still as possible on the back of fingers, and with arms slightly raised off of cushion, move the wrist up and down, taking care that the lever moves as little as possible.
+
+This exercise will be found somewhat difficult at first; but with a little practice and mental concentration upon the wrist movement, first difficulties will soon vanish, and it will be found that this exercise is of double value, as it gives not only a loose wrist, but also produces elasticity in the finger muscles, which passing through the wrist are affected by its movement.
+
+The special treatment of the wrist is a prominent feature in the Technicon, as also the separate treatment of the fourth and fifth fingers. I have given the above explanation of the Technicon exercises as samples of the manner in which it analyzes or "portions out" the different details of the hand's anatomy, and many musicians have testified that the principal requirements for skillful technique at the piano have been taken into consideration and brought to a practical basis in my scientific hand gymnasium.
+
+In going through this method of hand development, the concentration of the mental powers upon the separate muscles brought into action is indispensable, for thus is gained "the ability to use one muscle or set of muscles while all others are kept at rest and under control," as indicated above by G. W. J. The reference to and connection with concentrated mental energy in development of each anatomical detail, by means of the Technicon, constitutes one of its most important features, and cannot fail to commend itself to all thinking teachers and piano-players generally.
+
+An explicit book of instructions is sent with each Technicon, which contains diagrams showing how the instrument is used, and to those who wish to follow up this physiological side of piano-playing, I will send a copy of my Essay read before the Music Teachers' National Association at Chicago, upon application.
+
+The mechanism of the Hand explained by Diagrams, with explanatory notes, especially arranged for piano-players, sent to any address on receipt of fifty cents (50 c.) in stamps. Correspondence with teachers solicited. For further particulars, apply to
+
+J. BROTHERHOOD,
+No. 6 West 14th Street,
+New York.
+
+TO PIANO TEACHERS.
+
+It is well known to experienced and thoughtful teachers that their views in regard to the application of studies, and the selection of pieces for study, in the different stages of progress, have varied greatly since they first began teaching. As they have gained in experience, they have given up, one after another, many of the precepts given them at school, and have found out ways of their own by means of which they materially facilitate the progress of their pupils toward an intelligent and smooth style of playing.
+
+THE ETUDE believes that a comparison of the methods thus practically arrived at would throw light upon the art of piano teaching, as it has to be carried on under American conditions.
+
+The readers of THE ETUDE are asked to prepare, at the earliest convenience, answers to the following questions, intended to cover the ground above described. Should any important detail suggest itself, not covered in the questions, we would be greatly obliged if they would also embody it in the report, to be used in the ETUDE in tabular form, or in detail, according to the editorial judgment of the interest of the readers:
+
+1. Into how many stages are you in the habit of dividing the entire course of study, from the beginning to the most advanced?
+
+2. Can you state the leading motive of each division? That is, can you assign some particular part of the entire art of piano playing, as particularly appropriate to each division?
+
+3. Upon which do you most rely, Exercises, Studies, or Pieces, for effecting the modifications of the pupil's playing according to the new demands of each grade?
+
+4. If upon the two former mainly, what part of the work, if any, are you in the habit of accomplishing by means of pieces?
+
+5. Can you name fifteen or twenty pieces which you would regard as indispensable to properly forming the work of each grade?
+
+6. Which of these would you use mainly as amusements or recreations? and which more nearly in the manner of studies?
+
+7. If not too much trouble, we should be obliged if you would give a graded list of the studies which you are in the habit of using?
+
+8. What system of technics do you employ? Please answer the questions fully, as you would wish to read in the answers of other experienced teachers. In this way the answers, when published, will be helpful to all.
+
+Forward your answer to THE ETUDE.
+
+CONCERT PROGRAMMES.
+
+Normal Music School, Elder's Ridge, Pa., Emanuel Schroeder, Director.
+
+Polonaise, A flat major, Op. 53, Chopin; Lullaby; Gavotte, E minor, Arthur Foote; Vagabond Dance, Ferd. Devay; "Hunting Song," Arthur Mornauer; "Vocal Song," W. W. Gilchrist; Second Gavotte in F, Op. 37, W. G. Smith; Scherzo, Op. 41, Wm. Mason; Minuet and Trio, J. M. Glose; Gypsy Dance, Wm. H. Sherwood.
+
+Geneva College, Pa., Fred. E. Cluff, Musical Director.
+
+Prelude and Fugue in Octaves, Turner; Rondo Capriccioso, Mendelssohn; Piano Duet, "La Galite," Kuffer; Funeral March and Allegro from Sonata, Op. 26, Beethoven; Vocal Duet, "I See the Pale Moon," Campanari; "Kathleen," "Annie Laurie," and "Blue Bells," J. W. Tuft?; Rive King; Piano Duet, Valse Brillante, Schuhoff; "Consolation," Mendelssohn; "Spring Song," Mendelssohn; Minuet, Boccherini; Polonaise in C sharp minor, Chopin; Quartette, "Sweet and Low," Barnby; March, From Tannhauser, Liszt-Wagner.
+
+Mr. J. T. Wolcott, Detroit, Mich.
+
+Sonata, Op. 27, Beethoven; Serenade, Schubert; "Consolation," Duetson; "Hunting Song," Mendelssohn; Song, "Vision," Strelezki; Duet, Valse Brillante, Schumann; "Love Song," Polonaise, Bohm; Song, "Out on the Deep," Berceuse, Chas. E. Platt; Polonaise, Op. 40, Chopin.
+
+School of Music, DePauw University.
+
+Sonata, Op. 27, No. 2 (Moonlight), Beethoven; Ah! Perfido, Beethoven; Impromptu in A flat, Nocturne in D flat, Ballade in A flat, Chopin; "Faire Were Bright and Fair," Handel; Aus Schoner Zeit, Op. 34, No. 3; Hoffmann, Intermezzo, Von Bulow; Kameron-Ostrow, Op. 10, No. 22; Staccato Etude, Op. 23, Rubinstein; Magnetic Waltz, Adagio; "Sunshine Song," Weber-Liszt; Rhapsodie Hongroise, No. 12, Liszt.
+
+Mr. E. C. Murdock, St. Paul, Minn.
+
+Sonata, "Pathetique," Op. 13, Beethoven; "The Two Grenadiers," Schumann; (a) Romance, Op. 28, No. 2, F sharp minor, (b) Bird as Prophet, from the "Wood Scenes," Op. 82, (c) "Evening," from the Fantasie Pieces, Op. 12, (d) Nocturne, Op. 27, No. 1, F major, Schumann; Nocturne, Op. 9, No. 2, E flat major, Chopin; "Only the Sound of a Voice," Watson; Impromptu, Op. 36, F sharp minor, Chopin; Rondo Capriccioso, Op. 14, Mendelssohn.
+
+Bibliographic Institute, Benton Harbor, Mich.
+
+Camp of Gypsies, Behr; Heliotrope, Lehner; Waltz, Op. 18, Chopin; The Mill, Jensen; (a) Waltzes, Op. 10, Nos. 1 and 2, (b) Marche Heroique, Op. 27, Schubert; Adieu; Splendor; Fairy Dance, Dohn; Gavotte, Ritter.
+
+Doane Conservatory, Crete, Neb.
+
+Sonata, Op. 27, No. 2 (Moonlight), Beethoven; Impromptu, in A flat, Nocturne, D flat, Ballad, in A flat; Chopin; Baritone solo, "Thy Sentinel am I," Watson; Aus Schoner Zeit, Op. 34, No. 10, Hoffmann; Intermezzo, Von Bulow; Kameron-Ostrow, Op. 10, No. 22; Staccato Etude, Op. 23, Rubinstein; Slumber Song, Weber-Liszt; Rhapsodie Hongroise, No. 12, Liszt.
+
+Sioux City Conservatory of Music, G. W. Kelsey, Director.
+
+Largo from Symphony in G, Haydn; Chanson Joyeuse, Ravina; "The Old and Young Marry," Cowen; Tarantelle, Meyer-Helmundt; Recitation, "High Tide on the Coast of Lincolnshire," Jean Ingelow; Idyll, Sherwood; "Troika," (Sledge Ride), Tchaikowsky; (a) Fantasie on Russian National Hymn (Two Pianofortes), Gounod; "Deh! Parsi," Menel?; (a) Gavotte from Don Juan, Gluck; (b) La Falaise, Raff; Hungarian Rhapsody, No. 11, Liszt; Trio, "The Mariners," Ramsberger.
+
+Demilt Ladies' College, Oskaloosa, Iowa. Piano Recital by Vincent P. Hunn, Musical Director.
+
+Prelude and Fugue in A minor, Bach; Sonata, Op. 30, Beethoven; Nocturne, (a) Nocturne, Op. 37, No. 2; Chopin; (b) Nocturne; (c) Scherzo, Op. 39, No. 1; (d) Schumann; Romance in D flat, Rubinstein; No. 4; Mendelssohn; Hymn; etc.
+
+Yes, God gives skill, but not without men's hands; we could not make Antonio Stradivari's violins without Antonio. —George Eliot.
+
+WANTED—By a music school, a thorough violin teacher to take charge of violin department; also a teacher of singing and solfeggio. Address CONSERVATORY OF MUSIC, Arkansas City, Kansas.
+
+Description of non-textual elements:
+- The page is a scanned black-and-white newspaper or magazine page (Page 175) titled THE ETUDE across the top center with the page number at upper right. The page is divided into three vertical columns of small serif type. There are no photographs or illustrations on this page; the only non-textual elements are section headings in larger or bold type and minor decorative rules (thin lines) separating sections. The paper shows slight aging and uneven shading at the edges consistent with an old printed page scan.
+176 THE ETUDE.
+
+THE STUDY OF THE PIANO.
+STUDENTS' MANUAL.
+PRACTICAL COUNSELS.
+
+By H. PARENT.
+(Translated from the French by M. A. Bierstadt.)
+
+CHAPTER XI.
+EXPRESSION. THE INTERPRETATION OF THE
+SHADINGS INDICATED.
+
+156. What is expression?
+"By expression is understood that mode of
+interpreting, by which the musician moves those
+who listen."*
+"Besides that particular sentiment of expres-
+sion that every individual possesses, and which
+modifies the effect in pieces of music; there is
+a general and prescribed expression which con-
+sists in rendering exactly the author's thought,
+that he has indicated by means of certain signs,
+the value of which must be known."†
+
+Expression comprises the shadings and the
+different movements.
+
+157. What are the shadings?
+"The shadings are the various ways of modi-
+fying the power or the nature of sounds."‡
+They are obtained by means of sonority and
+accentuation.
+
+158. What is sonority?
+By sonority is understood (as applied to the
+piano) the quantity and quality of sound
+obtained by the player.
+
+159. By what proceedings is a good sonority
+obtained?
+"Purity, fullness, the vocal character of
+sound, if it may be so expressed, depend upon
+three fundamental principles: —
+1. Keeping the forearm in a state of absolute
+flexibility.
+2. Striking the notes with the fingers placed
+close to the ivory.
+3. Putting the keys down completely.§
+
+The modifications in the power of the sounds,
+give place to three different combinations: —
+1. Contrasts: the sudden passage from f to p,
+or from p to f.
+2. Progressions: the progressive increase or
+decrease of the sounds.
+3. Ordinary shadings: the same intensity of
+sound maintained a longer or shorter time.
+
+160. What is accentuation?
+Accentuation in music corresponds to pro-
+nunciation and accent in language. It is the
+prominence given to certain notes in a phrase
+relatively to the others, whatever be the general
+shading given to this phrase.
+
+Accentuation rests, it is seen, in the proportion
+of sound, and not in its absolute intensity.
+Accentuation leads to different manners of
+striking the key: —
+1. The connected stroke or touch.
+2. The short stroke.
+3. The sustained touch.
+
+161. What is the connected touch?
+The connected stroke consists in passing from
+one note to the next, without breaking the con-
+tinuity—gliding, so to say, on the keyboard.
+
+162. What is the short touch?
+In the short stroke there is a rebound after
+striking, so that the note is detached more or
+less quickly. The ordinary short stroke is
+indicated by an elongated point, the very light
+stroke by a round point. The word staccato
+applies equally well to both. In all short
+
+strokes the action of the wrist or forearm is
+employed (see Nos. 90 and 93).
+
+163. What is the sustained touch?
+The sustained touch consists in making the
+hand heavy, so that the note be neither con-
+nected nor detached, but carried by a simulta-
+neous movement of the hand and forearm, the
+latter in a perfectly flexible state.
+
+This touch is excellent for obtaining a full
+and singing tone. It is indicated by points over
+which is a slur — o — or in the case of a
+single note by this sign —
+
+Accentuation is indicated by means of ac-
+knowledged signs, which are thus explained. —
+
+A note above which this sign > is placed is
+to be accented. If the sign is placed in a ver-
+tical position ^, the accent is stronger; but the
+intensity of sound ought always to be propor-
+tioned to the general shading of the passage in
+which this accent is found.
+
+When two notes are united by a slur, the first
+note is accented, the sound diminished in the
+second, and even deprived of a part of its value,
+so that it produces the same effect as a mute at
+the end of a word.
+
+Example: —
+
+[small musical staff illustrating slur and accent; caption unreadable in image but indicates example]
+
+Even when the second note is of superior
+value, it is necessary often to observe this inter-
+pretation, especially the accent on the first note.
+Example: — [musical example]
+
+Unless the composers indicate the contrary.
+Example: — [musical example]
+
+When several equal notes are grouped together
+and bear above them a rhythmical slur, it is
+often well to accent the first note, in order the
+better to fix the form of the rhythmical design.†
+Example: — [musical example]
+Played ►
+
+164. What is the movement?
+The movement regulates the different degrees
+of slowness or speed, and gives to the piece its
+appropriate character. The tendency to play
+too quickly is so general among pupils, that it
+may be of use to cite, on this subject, the opinion
+of a well-known master: —
+"It may be regarded as a proof of power to
+display great dexterity of fingers," says Thal-
+berg; "but in my opinion playing too quickly
+is one of the greatest faults. A simple [fugue?]
+in three or four parts played correctly and in
+style, in a moderate movement, exacts and
+proves greater latent power than the execution
+of the most brilliant, rapid and complicated piano
+piece. It is much more difficult than one thinks,
+not to hurry, not to play too quickly."
+
+*Beethoven (in the Milhaud).
+†This accentuation is obtained on the piano by the
+action of the wrist or forearm on the first note of the
+group; the other notes are played by the action of the
+fingers alone.
+‡Preface to L'Art du chant applique au Piano, by S.
+Thalberg.
+
+165. How are the shadings and movements
+indicated in a piano piece?
+By means of prescribed signs and Italian
+terms (see table in Appendix).
+
+CHAPTER XII.
+EXPRESSION — THE CREATION OF SHADINGS
+NOT INDICATED.
+
+166. If a pupil is called upon, either for prac-
+tice or by necessity, to himself create the
+shadings and accentuation of a piece,
+on what rules may he depend?
+There can hardly be any question of rules in
+this matter. Expression is something which
+appeals to the pupil's mind and intelligence.
+Written advice is not sufficient to develop
+feeling which comes from the soul, to enable
+one to acquire all the subtleties of touch ; the
+personal direction of a master is really necessary;
+his criticisms, and oftener his example serve to
+throw much light upon the subject.
+To be able to accent and shade correctly, we
+should know how to resolve a piece into its
+phrases, so as to know their relative importance
+(This operation corresponds to logical analysis).
+Then, again, we should know how to resolve a
+phrase into its elements, to recognize the rela-
+tive importance of the different sounds of which
+it is composed (grammatical analysis). It is
+also well to be familiar with the laws of taste
+and tradition, which sometimes recommend one
+shading and sometimes condemn another.
+Expression must not be the effect of chance,
+nor depend entirely upon the inspiration of the
+moment. An artist who trusts to his impressions
+of the moment, might be sublime one day and
+ridiculous the next, according to the mood he is
+in; on the other hand, he who reasons out his
+shadings, who chooses them, and gives life to
+them through his inner feelings, will always
+produce the right effect.
+
+167. How can a piece be resolved into its
+parts, so as to be analyzed?
+Musical language like literary language is
+composed of periods, periods of phrases, phrases
+of members, members of groups or rhythmical
+designs.
+
+The most common period, the most natural
+and most used, is that which comprises eight
+measures; this can be divided into two phrases
+of four measures each.*
+
+Usually the first of the two phrases that com-
+pose a period, presents an incomplete idea to the
+ear, and produces a feeling of suspense. It
+requires the second phrase, as a complement, to
+finish it and give the feeling of repose. This
+musical period may be compared to a literary
+phrase, of which the first member should be
+followed by a comma, or semicolon, and the
+second by a period.†
+
+*The musical phrase of four measures, which is called
+a musical period, is the classical phrase, just as the Alex-
+andrine verse of twelve syllables is the classical verse.
+The two members of the phrase, containing two measures
+each, correspond to the hemistiches of the Alexandrine
+and form the balanced phrase which is the basis of the
+classic style. There are, however, other orders of
+phrases — three measures, etc. — which are permitted in
+modern composition. The number of notes and the length
+of the phrase, etc., do not constitute a law. The ear is
+the tribunal which pronounces on the phrase. The per-
+former should only be a servant of the author's will.
+
+A phrase is commonly the part of the measure.
+In the study of passages which relate to shadings (See
+Chap. I, No. 10), it is not necessary every time to repeat
+the last notes of a preceding phrase with the first note
+of that one being practiced.
+
+[Bottom of left column contains bibliographical notes:]
+* A. Savard, Principes de la Musique.
+† Moscheles, Methode of Moscheles.
+‡ F. Le Couppey, Methode du Piano.
+§ E. Le Couppey, Preface de l'Ecole de Mechanisme.
+
+---
+
+Non-textual images on the page:
+
+- Several small musical notation examples (five or more) appear throughout the columns. They are short measures written on five-line staves with treble clef symbols and notes, slurs, accents (greater-than signs over notes), dots (staccato), dynamic markings such as p and f, and some rhythmical slurs. One example is shown under the discussion of accentuation illustrating two notes united by a slur with the first accented; another shows several equal notes grouped under a rhythmic slur with an accent on the first; another shows a short staff labeled "Played" with a small black arrow or pointer. The examples illustrate connected stroke, staccato, accents, and rhythmical grouping. Exact pitches are not transcribed here because they are graphical musical notation rather than text.
+
+- There is a small typographical ornament or diamond-shaped bullet near the top of the middle column accompanying the "Played" caption.
+
+- The page is two-column text with narrow gutters and several section headings in small caps. The top of the page shows the periodical title "THE ETUDE." and the page number 176. The overall page has aged paper texture and slight darkening around the edges.
+THE ETUDE. 177
+
+168. What are the important phrases in a piece of music?
+
+The important phrases are those that contain the principal motif or subject of the piece, or the secondary motifs which, by their development, acquire a certain importance in the construction of the piece. Consequently the first period, which generally contains the entire subject, ought to be detailed with care. All the returns of the motif, whether in the principal key or in any others, ought to be brought out, and their reappearances executed in a worthy manner.
+
+PUBLISHER'S NOTES.
+
+We have issued a truly useful book, by E. W. Krause, entitled "The Study of Time and Measure." Every pupil has trouble, more or less, with time. Some overcome it by continually playing varied pieces involving the difficulties, and in this way, by long and round-about study, learn to play in time. The average pupil is slow in clearing away this trouble in the study of music. Special study is rarely given to time. The teacher and expression are the points on which the teacher directs the energies of the pupil. Time is usually allowed to come along of itself. A little special study devoted to it would forever clinch the whole subject. Mr. Krause begins his studies on simple scales. Each scale is presented in varied form. Every imaginable combination will be found in the book. The reason that pupils shrink from practicing scales is on account of their monotony. In this book they are presented in such varied forms that dullness is out of the question. Mr. Krause can be congratulated on the presentation of so useful a book. The work, we feel confident, will prove a valuable aid to the average pupil in the study of the piano.
+
+The next issue of THE ETUDE we hope to make unusually attractive. Preparations for it have been going on for some time in the office. It will be replete with fine things. We are in hopes of having a supplement which will be worth double the price of the journal. Some of the leading writers on music have already sent in contributions. There will be 5000 extra copies struck off, but the demand, we know, will call for more than this number. Our subscribers can have extra copies at the usual subscription price. Send in your orders in advance.
+
+It should be understood by our readers that we make no place the headquarters for all mechanical appliances for aiding piano teaching. Our prices are considerably below the usual wholesale prices, and those contemplating buying a Techincion, a Practice Chauffer (Techniphone), a Manufactumer, or a Dacyclion, should by all means write to us. Our Texas patrons can save freight by purchasing through us, as we have established a depot for shipment from Waco.
+
+If there is anything advertised in The Etude not published by us, it can always be ordered from us on the same terms as from the publisher. No matter where a book or piece of music is published or advertised, it can always be procured through the publishers of The Etude.
+
+Music and rhyme are among the earliest pleasures of the child, and in the history of literature poetry precedes prose.
+
+Every one may see, as he rides on the highway through an uninterested landscape, hoe difficult it is to retain the attention of the mind on the many objects near at hand; a gray rock, a grass patch, an elder bush, or a stake — they become beautiful by being reflected. It is a rhyme on the eye and explains the charm of rhyme on the ear. — Emerson.
+
+Mendelssohn was a man of feeling, but his feelings were rather refined than deep. His temper pointed rather to the tender than the pathetic. — Fr. Niecks.
+
+ESTABLISHED 1870.
+
+WERNER'S VOICE.
+
+A Monthly Journal Devoted to the Human Voice in all its Phases.
+
+A Practical Guide for the Restoring, the Culti-
+vating and the Preserving of the Voice.
+
+EVERY ISSUE EMBRACES A VARIETY OF ARTICLES — Literary and Critical — Practical and Artistic, and the Journal contains articles and personal communication from the most eminent teachers and singers of America and Europe.
+
+ALSO A YEARLY NUMBER, 50 Cts. A NUMBER.
+
+Mention This Paper. Send for Full Prospectus and Sample Copy.
+
+EDGAR S. WERNER,
+No. 148 UNIVERSITY PLACE, NEW YORK.
+
+TWO NEW BOOKS.
+
+"Choice Classics,"
+
+FOR PIANO.
+
+A judicious selection from the works of foreign authors of the highest rank. A glance at the contents will be sufficient for players of musical discrimination. Printed from new engraved plates on finest quality music paper.
+
+CONTENTS:
+AIR DE BALLET ...................................JADASSOHN
+ALBUM LEAF .....................................GRUTZMACHER
+ALBUM LEAF .....................................BARGIEL
+AIR MENE .......................................SCHEUBERT
+AT EVENING ...................................SCHUTTE
+BARCAROLLE ...................................TCHAIKOWSKY
+BANDONETTE..................................NEMANN
+BANCONETTO ..................................JENSEN
+CANTANTZETTA ...............................HOLLANDER
+CAPRICE ..........................................MOKLER
+CHILDHOOD'S FROLICS ....................KRUEGER
+CONTINUATION ...............................KROSS
+CRADLE SONG ..................................BASHKET
+DUET ...............................................HABERBER
+FLIGHT MEETING ................................J. KROEGER
+FROLLOH ..........................................HABEN
+FLOWER OF SPRING ..........................HABERLE
+FROLICS ..........................................VON WILM
+HAPPINESS ENOUGH ........................SCHUMANN
+HERZENSLIEBCHEN ...........................BRANDT
+LIECHTES SPIEL ................................WOLFF
+LILIE UND ROSE ...............................HOLDZEL
+LOVE'S SONG ..................................WOHLSER
+MELODIE ........................................MOSKOVSKY
+MELAYE ..........................................NONHOLTZ
+MENUETTO ......................................SCHABRIGNER
+MOMENT MUSICAL ............................SCHAWENKLA
+MOURNING ZEPHYRS ........................SCHENK
+NOCTURNE ......................................MEYER-HELMUND
+NOCTURNAL SONG ............................HOFFMANN
+ON THE RIVULET ..............................SCHUMANN
+POLONAIS .......................................MERKEL
+PRETER DANCE ...............................NICODE
+REPARATION ...................................HURTSEIN
+ROMANCE .......................................RUBINSTEIN
+SERENADE ......................................SCHUMANN
+SELMER SONG ................................HABERBER
+SHOWER SONG ................................TURMANN
+TRAVELLER ....................................SCHUMANN
+VILLAGE MUSICIAN ...........................VON WILM
+ZUR LAUTE .....................................HOFFMANN
+
+Price, in Boards, $1.00
+Price, in Cloth, 1.50
+
+"Classic Duos,"
+
+FOR PIANO AND VIOLIN.
+(With extra Violin part in separate binding.)
+
+Contains compositions by the best authors, and of absolutely unequalled merit. They will be found equally acceptable for concert performances or drawing-room pastime. The separate violin part relieves both performers of the discomfort of playing from one book. Issued in the same careful and costly style as "Choice Classics."
+
+CONTENTS
+ANDANTE AND MARCH ........................BIEEETHOVEN
+ANGEL'S SERENADE ..........................BRAGA
+ANNE MARIE ....................................GOUNOD
+CHILDREN'S SERENADE ........................STRENSHORST
+CHINESE DANCE ................................MENDLESSOHN
+FLYING WISHES ..................................BERGEN
+FOND ECHO ......................................FOSSEN
+FONTS DE L'AMOUR ............................RACHMANOFF
+FIRST SERENADE ................................BENNO
+GAUDENTE ...........................................BOULANGER
+HONORATA ..........................................GOUNOD
+LIEBESLIED ......................................MOZART
+LOVELINESS .....................................HUBIN
+MELODIE ..........................................FEUCHTWOHL
+MENDELIAN .....................................SCHUBERT
+NOCTURNE .......................................MAY
+NOVELLE ..........................................CHENIER
+PAGEANT ..........................................RAFF
+PASTORAL ..........................................KRETSCHMAR
+PIZZICATO ........................................WOLFF
+PRELUDE ..........................................MOLL
+ROMANCE .........................................HAHN
+SONATA ............................................SCHUBERT
+SERENADE ........................................HAYDN
+SONG WITHOUT WORDS .....................MENDELSSOHN
+TRIOLETTE ......................................KUSS
+TRIPLE DUET ..................................DUBOIS
+VARESE ...........................................ROSSINI
+VIOLETTE ........................................HAUSMAN
+WALTZDANCE ..................................WILDE
+WANDERER SONG ................................WILDE
+WALTZ .............................................BEETHOVEN
+
+Price, in Boards, Including separate Violin part, $1.00
+" " Cloth, " " " 1.50
+
+FOR SALE AT ALL MUSIC STORES.
+
+CLASSIC ROMANTIQUE SERIES,
+VOLUME I.
+
+$1.00 in Boards. $1.50 in Cloth.
+$2.00 in Cloth and Gilt.
+
+Each day develops more clearly the growing demand for music of a classical order, and why should it not be so? Each town and city throughout our boundless Continent has its piano teacher and one or more good singers who have been able to discover that their musical tastes are daily growing more refined. We offer, therefore, a series of musical publications which in form, paper and typography are of the highest order, and which will be accepted by the musical public as those best adapted to the artistic wants of the time. All the pieces in the following volumes have been carefully selected by expert musicians and teachers:
+
+CLASSIC ROMANTIQUE SERIES
+
+Will be in every respect a work of art, containing compositions by well-known eminent composers.
+
+OUR COLLEGE BOYS' SONGS.
+
+Price, Paper Covers, 50 Cents; Cloth, 75 Cents.
+
+The latest collection of College Songs, containing the most popular songs sung on the American campuses. No drawing-room book is complete without them.
+
+Important to Teachers and Students of the Pianoforte.
+
+ABOUT THE FIRST OF FEBRUARY WE WILL ISSUE
+
+HENNINGS' PRACTICAL GUIDE
+
+For Teachers and Students of the Pianoforte.
+
+This work is the result of many years' experience in teaching, is original, and its aim is to simplify the labour of teachers, and to strengthen the present demand for nice instruction. It will be of the utmost utility to the teacher. The work has been prepared under the direct supervision of one of the most prominent teachers and composers of the Old World; but it is fully adapted to American usage and American pupils. It contains a practical system of Fingering, Pedalling and Velocity, With Their Application to all Grades of Modern Composition. It is a thoroughly practical book for teachers, and for pupils who wish to become teachers.
+
+S. BRAINARD'S SONS, Publishers,
+Cleveland and Chicago.
+
+KARL MERZ
+PIANO METHOD.
+
+By DR. KARL MERZ.
+
+No piano method was ever published that so quickly came into general use as MERZ'S NEW PIANO METHOD. The first edition having been exhausted after publication by several thousand copies; the second edition is now ready for distribution. The method contains a large amount of new and original material for pupils, and especially for the home-made teacher, and is designed to meet the wants of small teachers and private classes. The examples are fully annotated, and the method contains many original studies which cannot be found elsewhere. Simple, Progressive and Practical, yet Thorough and Complete.
+
+Price $2.00 by mail, postpaid.
+
+Two Editions are Published. One with American and One with Foreign Fingering.
+
+SCIENCE, ART AND HISTORY
+OF
+MUSIC.
+By F. O. WADE.
+
+A concise treatise on the principles of Acoustics and Tonality, together with the complete system of Musical Notation, Interpretation and an Outline of History; to which is added a compendium on Theory of Pianoforte Technique.
+
+BOUND IN CLOTH, PRICE $1.50.
+
+GRAND ARMY WAR SONGS.
+
+A COLLECTION OF
+WAR SONGS, BATTLE SONGS,
+CAMP SONGS,
+NATIONAL SONGS,
+MARCHING SONGS, ETC.
+
+Price, Illustrated Paper Covers, 60 cts.; Boards, 60 cts.;
+Cloth, $1.00.
+
+Any of the above works mailed to any part of America, for the price named.
+
+S. BRAINARD'S SONS,
+CLEVELAND AND CHICAGO.
+
+S. BRAINARD'S SONS, Publishers,
+Cleveland and Chicago.
+
+KARL MERZ
+PIANO METHOD.
+By DR. KARL MERZ.
+
+No piano method was ever published that so quickly came into general use as MERZ'S NEW PIANO METHOD. The first edition having been exhausted after publication by several thousand copies; the second edition is now ready for distribution. The method contains a large amount of new and original material for pupils, and especially for the home-made teacher, and is designed to meet the wants of small teachers and private classes. The examples are fully annotated, and the method contains many original studies which cannot be found elsewhere. Simple, Progressive and Practical, yet Thorough and Complete.
+
+Price $2.00 by mail, postpaid.
+
+Two Editions are Published. One with American and One with Foreign Fingering.
+
+SCIENCE, ART AND HISTORY
+OF
+MUSIC.
+By F. O. WADE.
+
+A concise treatise on the principles of Acoustics and Tonality, together with the complete system of Musical Notation, Interpretation and an Outline of History; to which is added a compendium on Theory of Pianoforte Technique.
+
+BOUND IN CLOTH, PRICE $1.50.
+
+GRAND ARMY WAR SONGS.
+
+A COLLECTION OF
+WAR SONGS, BATTLE SONGS,
+CAMP SONGS,
+NATIONAL SONGS,
+MARCHING SONGS, ETC.
+
+Price, Illustrated Paper Covers, 60 cts.; Boards, 60 cts.;
+Cloth, $1.00.
+
+Any of the above works mailed to any part of America, for the price named.
+
+S. BRAINARD'S SONS,
+CLEVELAND AND CHICAGO.
+
+(Note: The right column contains repeated advertising blocks; above is full text as visible.)
+
+NON-TEXTUAL IMAGES / ORNAMENTATION DESCRIPTION:
+
+- A thin horizontal rule across the top of the page beneath the header “THE ETUDE.” Decorative small typographic ornaments (flourishes) separate headings like "TWO NEW BOOKS." and the "Choice Classics" and "Classic Duos" sections. These ornaments consist of small symmetrical floral/scroll line designs centered between rule lines.
+- The page is laid out in multiple narrow columns with rule lines between columns and occasional bold or larger display type for section titles and advertisements. There are no photographic images or portraits on the page — only typographic ornamentation and block decorations used to frame and highlight titles and prices.
+178 THE ETUDE.
+
+THE BOSTON MUSIC CO.,
+(G. SOHMER, JR.)
+PUBLISHERS AND IMPORTERS,
+28 West Street, Boston, Mass.
+We will send our Catalogue of Music (the finest pub-
+lished in this country), free, to any Teacher.
+ACCOUNTS OPENED ON VERY FAVORABLE TERMS.
+ALL ORDERS FILLED THE DAY RECEIVED!!!
+IMPORTANT FOR ORGANISTS.
+Organists who wish to keep themselves informed of
+new Publications, French, German, English or Ameri-
+can, for their instruments, can have this done, free of
+charge, by sending us their names.
+
+RAINBOW REFERENCE CARD.
+An Aid for teaching the Form and Fingering of the Scales. Seven
+Ways of Fingering shown by the Seven Colors of the Rainbow.
+
+VALUABLE RECOMMENDATIONS.
+"I think that Miss Belcher's ingenious device will be found useful,
+especially to beginners, in aiding them to systematize and remember
+the fingering of the scales." WILLIAM MASON.
+
+"The study of music requires rather much physical facility. Ad-
+vantage of system and arrangement greatly facilitates the acquisition of har-
+mony, rhythm and technic. Even in the earliest stages, when these fa-
+culties of the mind are called into action for this object, any new device
+that will assist the memory and fix the mechanism of execu-
+tion is worthy of attention and trial." H. W. PHELPS.
+
+"The simple and practical device should be of great assist-
+ance, especially to very young pupils." W. H. STODDART.
+
+"In Miss Kate H. Belcher's Rainbow Guide for the Fourth Finger
+form gives color clues by one chromatic shade, and shows the proper fin-
+gering of the various scales, which will be a great aid to teachers and
+pupils in the first stages of instruction." A. W. PARSONS.
+
+"I fully endorse what my friend, Dr. Mason, says of Miss Belcher's
+invention and believe that it will be of great assistance to the teacher
+and pupil." L. NEILS.
+
+PRICE 50 CENTS. Discount to Teachers.
+Address MISS KATE H. BELCHER,
+Irvington, New Jersey.
+
+FOR SALE ALSO BY
+WM. A. POND & CO., 25 Union Square, New York.
+AND THEO. PRESSER, 1704 Chestnut St., Philadelphia.
+
+THE NATURE OF HARMONY;
+BY
+DR. HUGO RIEHMANN.
+TRANSLATED BY JOHN O. FILLMORE.
+Price 25 Cents.
+Something new and valuable to every teacher of Harmony.
+Address Publisher,
+THEO. PRESSER,
+1704 Chestnut St., Philadelphia.
+
+COURSE IN HARMONY.
+BY GEO. H. HOWARD, A.M.
+PRICE $1.50.
+Easily understood. Interesting. Thorough. Adapted for a short course
+of study or for an extended course of study. A ready book for use in
+the study of the principles of harmony. A work that will be appreciated
+by those who wish to study harmony with a clear and practical method.
+
+The author has had large experience as teacher, and is already introduc-
+ing his system into the schools of several of the best conservatories. It is
+compiled from the best authorities, but in a condensed and practical form,
+illustrated by numerous graded exercises and examples by the author. No
+student who thoroughly masters this simple and practical method can fail
+to acquire a solid and useful knowledge of Harmony. Teachers and Pupils
+who have used the work express themselves highly in its favor.
+
+Address Publisher,
+THEO. PRESSER, Publisher,
+1704 Chestnut St., Philadelphia, Pa.
+
+TEACHER'S
+POCKET METRONOME.
+SIMPLE, CONVENIENT, NEAT AND INEXPENSIVE.
+
+[Illustration of a circular pocket metronome — see description below]
+
+Price, Nickel-plated, 50 Cents, Net, Postpaid.
+
+Giving the correct Metronomic Marks after the
+Maelzel Standard, together with the
+True Tempos of all the Dances.
+
+These instruments have been especially manufactured
+for THE ETUDE, and will be sent as a premium to any one
+sending two subscribers.
+Address
+THEO. PRESSER,
+PHILADELPHIA, PA.,
+1704 Chestnut Street.
+
+We have just published
+PRACTICAL HARMONY,
+DESIGNED FOR THE USE OF PIANO STUDENTS.
+BY
+DR. E. LITTMER.
+PRICE 75 CENTS IN PAPER; $1.00 IN BOARDS.
+
+A work of the greatest importance to students of har-
+mony and the pianoforte. There is no other work of
+this kind in our language, and we are sure that it will
+occupy a distinguished place in the curriculum of musical
+education. It takes up the whole ground of har-
+mony, and the rules are covered in exercises of the
+most varied kind, to be played at the pianoforte. It is a
+good preparation for the study of counterpoint and im-
+provement in composition, and will be found adapted for
+the young musician's steady work. The work is de-
+signed for the use of advanced students.
+
+Address
+THEO. PRESSER,
+PUBLISHER,
+1704 Chestnut Street.
+
+DACTYLION.
+FOR PIANO STUDENTS.
+
+A new invention of great practical value and real benefit to the Piano
+Player.
+
+[Illustration of a finger-exercising apparatus — see description below]
+
+To strengthen the fingers.
+To improve the touch.
+To secure flexibility and rapidity.
+To obtain correct position of the hand.
+To save time and a vast amount of labor.
+
+PRICE $3.50, NET.
+Manufactured expressly for the American trade. By addressing us we
+will send full descriptions and testimonials.
+
+IN PRESS. — The Study of Time, Measure and Rhythm, for the Pianoforte, By E. W. Krause.
+Price $1.50.
+
+ELEMENTARY PIANO INSTRUCTION.
+BY
+ALOYS HENNES.
+TRANSLATED BY J. THOMPSON.
+Price 15 Cents.
+A USEFUL PAMPHLET FOR EVERY TEACHER.
+
+Address Publisher,
+THEO. PRESSER,
+PHILADELPHIA, PA.
+
+TUNING FORKS.
+FRENCH PITCH.
+Large Size, A and C.
+Small Size, A and C.
+
+PRICE 40 CENTS EACH.
+These have been especially manufactured for us.
+ADDRESS
+THEO. PRESSER,
+1704 Chestnut Street, Philadelphia, Pa.
+
+H. A. ROLANT,
+Watch and Clock Repairing Co., Limited.
+CHRONOMETERS,
+CALENDAR WATCHES, REPEATERS AND CHRONOGRAPHS,
+ASTRONOMICAL CLOCKS, MUSICAL BOXES.
+Dealer in Watches, Clocks and Jewelry.
+Repairing and adjusting a specialty. Orders by mail
+promptly attended to.
+15 South 13th Street,
+PHILADELPHIA, PA.
+(For reference apply to Publishers of the ETUDE.)
+
+H. B. STEVENS & CO.,
+Music Publishers & Importers,
+169 TREMONT ST., BOSTON, MASS.
+
+Agents for the New Vocal Editions of
+Peters and Breitkopf and Härtel, Leipzig,
+Cotta, Stuttgart, &c.
+Augener & Co., London.
+
+ACCOUNTS OPENED ON VERY FAVORABLE TERMS.
+ALL ORDERS PROMPTLY FILLED.
+Catalogues free upon Application, and Bulletin of
+new Music sent regularly to those sending us
+their names.
+
+NEAT AND SUBSTANTIAL
+MUSIC·FOLIOS·
+OUR OWN MAKE.
+Price 75 Cents; $6.00 per Dozen, by Express.
+These folios will be found especially adapted to the
+wants of Teachers of all classes.
+Address THEO. PRESSER, Phila., Pa.
+
+AN IMPORTANT WORK.
+How to Understand Music.
+VOL. II.
+BY W. S. B. MATHEWS.
+PRICE, $1.50.
+Musical Miscellanies, Historical, Critical,
+Philosophical and Pedagogic.
+
+Among the subjects treated are: Self Culture in Music,
+Bird's-eye View of Musical History, Wagner (3 Chapters),
+Theory of Piano Teaching, Psychological relations of
+Music, &c., &c.
+
+Address Publisher,
+THEO. PRESSER, Philadelphia.
+
+[End of page]
+
+Descriptions of non-textual images:
+- Circular pocket metronome illustration (center column, top): a round, pocket-watch-like instrument shown face-on. The drawing depicts a circular case with a central pivot, an outer graduated scale marked with small ticks, and a winding ring or loop at the top like a watch fob. The face shows a small central cap and a shaded rim indicating metal finish; the rendering suggests a compact, hand-held mechanical metronome.
+
+- Dactylion illustration (center column, lower): a mechanical finger-exercising apparatus shown in perspective. The device consists of a small base with multiple curved metal arms or springy bands, each terminating in a leather or padded loop designed to fit over a piano student's fingers. The springs appear adjustable and are arranged side by side, intended to provide resistance to each finger; the drawing shows the implement detached and resting, emphasizing its structure of bands, pads, and sprung mounts.
+THE ETUDE.                                                                                                      179
+
+PRINCESS SNOWFLAKE;
+Or Beyond the Icebergs,
+A NEW COMIC OPERA IN THREE ACTS,
+WITH ORIGINAL WORDS AND MUSIC,
+Complete Libretto can be furnished on application
+By Benjamin Cross, Jr.
+
+PRICE $1.25.
+
+Published by
+THEO. PRESSER,
+No. 1704 Chestnut Street, Philadelphia.
+
+New + Lessons + in + Harmony.
+BY
+JOHN C. FILLMORE.
+
+"We know no other work in which a musical student can learn so
+much about harmony in so few pages of text and examples for exer-
+cise." —The Musician, New York.
+
+This work is based on the ideas of Dr. HUGO RIEMANN, and has as
+an appendix his lecture on "The Nature of Harmony."
+
+It is of especial value as an aid in the practical study of modern
+classical harmony.
+
+Dr. Riemann, "the greatest living musical theorist." —The Nation.
+
+Zeckwer Metronome.
+
+This Metronome is absolutely correct,
+very simple in construction and
+cannot get out of order.
+
+PRICE $3.00.
+
+For Sale at the
+Philad'a Musical Academy,
+1617 SPRUCE STREET,
+PHILADELPHIA, PA.
+
+MUSICAL GAME.
+ALLEGRANDO.
+Instruction and Pleasure Combined.
+A SPLENDID GAME FOR EVERY HOME.
+
+This game consists of cards on which the different notes and rests
+are printed, and one or more die. After a number are distributed among
+the players, the cards are played in succession and added together
+as played, playing until the value of a whole is reached, when it
+counts one for the person who played the last card and completed the
+whole note. This gives a general idea of rhythm. Full directions, with
+rules for a number of different games, tables showing the note, rest,
+time, etc., accompany the game.
+Those learning to play the Piano, Organ, Violin, or any other instru-
+ment; those who sing; those who wish to read music faster; in fact, all
+who are interested in music, need this charming game.
+It teaches the value of notes and rests.
+The names of the notes.
+The various keys in which music is written.
+The different kinds of time.
+Practice in musical fractions.
+The easiest way to learn to read music.
+To learn, while playing an interesting game.
+It is readily learned, even by children.
+Time devoted to playing this game is not wasted, as in most games.
+A splendid game for evening parties.
+A never-failing resource—entirely unlike any other game.
+Parents can teach their children the rudiments of music, even if not
+classically themselves.
+Interesting to old and young, beginners and advanced alike.
+Those intending to study music will find it to their advantage to play
+this game a while before beginning lessons.
+
+PRICE, 50 CENTS.
+
+Address Publisher,
+THEO. PRESSER,
+1704 Chestnut Street, Philadelphia, Pa.
+
+Little Classics for Little Players
+By FRED. BRANDEIS.
+
+This volume is one of Gounod's charmingly simplified by one of our
+foremost musicians. Complete (German) finger marks and close phra-
+sing with every piece. Price 50 Cents.
+CONTENTS.
+Adagio from Sonata Pathetique........................Beethoven.
+Andante from Sixth Symphony ........................Beethoven.
+Andante from Kreutzer Sonata..........................Beethoven.
+Andante Favori........................................Beethoven.
+Consolation............................................Liszt.
+Consolation............................................Mendelssohn.
+Evening Song..........................................Schumann.
+Harmonious Blacksmith...............................Handel.
+Hungarian Dance, No. 7...............................Brahms.
+Largo................................................Handel.
+Liebes Gespräch (Des Walzers)....................Wagner.
+Morceau de Salon..................................Schumann.
+Morceau (A la Turque).............................Mozart.
+Melodie................................................Rubinstein.
+Menuet................................................Mozart.
+Nocturne, Op. 37, No. 1 .............................Chopin.
+Piano Song (Meistersinger)........................Wagner.
+Rhapsodie Hongroise, No. 2 ........................Liszt.
+Romanza, Op. 40...................................Beethoven.
+Slumber Song........................................Schumann.
+Spring Song..........................................Mendelssohn.
+Traumerei............................................Schumann.
+WALTZ.................................................Weber.
+
+Address THEODORE PRESSER,
+1704 Chestnut Street, Philadelphia, Pa.
+
+SPENGLER'S
+System of Technic,
+FOR THE PIANO-FORTE.
+
+PRICE, $1.50.     Large Cloth, $2.00
+An Original and Highly Interesting Work for
+Professional and Amateur.
+JUST PUBLISHED.
+We offer in this System of Technic a work that is
+calculated to arouse new interest and enthusiasm, and
+point out the road to higher and nobler possibilities.
+While the aim has been not, before the player
+and teacher, to attain mere fluency, yet the more important
+facts are constantly kept in the foreground, to wit: —
+to develop the weaker fingers, and, to equalize the
+touch, to create an independence of execution, a ac-
+custom fingers and hands alike to every possible posi-
+tion in all major and minor keys, and to cultivate the
+mind as well as the fingers.
+
+Advice to Young Students of the Pianoforte.
+By ALBERT W. BORST.
+PRICE, 10 CTS.
+Some good advice for every one studying the piano.
+
+WHAT SHALL WE PLAY.
+By CARL REINECKE.
+PRICE, 25 CTS.
+Letters from a renowned musician and teacher to a lady.
+
+NATURE OF HARMONY.
+By DR. HUGO RIEMANN.
+(Second Edition.)
+PRICE, 25 CTS.
+An exposition of some modern ideas of Harmony.
+
+METHOD OF STUDY.
+By C. A. MACCORMICK.
+Among the many topics treated in this little pamphlet
+are "On a good touch," "Repose in playing," "Magnetism
+in playing," etc., etc. Price, 10 cents.
+
+CLASS-BOOK
+FOR
+MUSIC TEACHERS.
+By E. M. SEFTON.
+Price, —— 50 Cents.
+The book contains everything for keeping Accounts
+of Music Teachers; Index; Daily Programme, a page
+for each pupil; Cash Account, Bills, Receipts, etc., etc.
+Address publisher,
+THEO. PRESSER,
+1704 Chestnut St., Philadelphia, Pa.
+
+KNABE
+GRAND, SQUARE, AND UPRIGHT
+PIANOFORTES
+
+These Instruments have been before the Public for over
+fifty years, and upon their excellence alone
+have attained an
+UNPURCHASED PRE-EMINENCE,
+Which establishes them as
+UNEQUALED
+IN
+Tone, Touch, Workmanship, and Durability!
+
+Every Piano fully Warranted for 5 Years.
+
+WM. KNABE & CO.,
+22 & 24 E. Baltimore Street, BALTIMORE.
+
+COUNTERPOINT AND CANON
+By E. C. AYRES.
+Price, One Dollar, Post-paid.
+
+It is well known that many of our most valuable works on musical
+theory are in other languages, especially German, and that their re-
+views are incomprehensible to students in general. The difficulty has
+been in obtaining works which were concise, correct, and yet simple
+and practical. The following may be considered especially adapted
+to teachers and pupils. It is condensed and practical with an educa-
+tive spirit, and such selections as are best for students and teachers
+are especially selected and clearly explained, so that the pupil may
+become the better prepared to take advanced works on theory and
+composition.
+
+HISTORY OF PIANO-FORTE MUSIC.
+By J. C. FILLMORE.
+
+Mr. Fillmore deserves the thanks of the musical people for a very
+excellent little work which gives in a most sensible and interesting
+manner an account of the History of Piano-Forte Music. The book is
+from the pen of a man who is a careful worker, and who has been
+thoroughly conversant with the subject.
+
+Mr. F. presents a few Communications out of many received:
+"We have read your little booklet with much interest and profit
+and shall be pleased to recommend it." —N. Ireland.
+"It will be useful for young and old." —Wm. Mason.
+"I have read your little book." —E. B. REIMANN.
+"It is well executed, and will be a help to the student." —A. Devrient.
+
+PRICE, 50 CENTS.
+
+PLAYS AND SONGS
+FOR
+Kindergarten and Family,
+BY A KINDERGARTENER.
+
+PRICE 50 CENTS.
+
+The most popular work of the kind ever published.
+It has passed through numerous editions.
+
+THEO. PRESSER, Publisher,
+1704 Chestnut Street, Philadelphia, Pa.
+
+[Along right margin, large vertical text]
+Wm. KNABE & Co., 22 & 24 E. Baltimore St., Baltimore.
+
+[Smaller items in center column below Spengler:]
+
+Little Classics for Little Players (repeated header content previously)
+
+[Bottom center small line repeated]
+THEO. PRESSER, 1704 Chestnut St., Philadelphia, Pa.
+
+[Note: several short advertisement blurbs and headings in small type are repeated and partially visible, including price listings and publisher address.]
+
+Description of non-textual images:
+- Near the left column, beside the Zeckwer Metronome advertisement, there is a detailed black-and-white illustration of a traditional pyramid-shaped tabletop metronome sitting on a base, with a visible pendulum rod and weight, and a graduated tempo scale down its face. The drawing is vertically elongated and occupies the space of the advertisement column.
+- Decorative typography: The page features ornamental and bold display typefaces for headings and advertisement titles (e.g., PRINCESS SNOWFLAKE, KNABE, ALLEGRANDO). Some headings include decorative flourishes and varied font sizes to attract attention.
+- Border and dividing rules: Thin horizontal and vertical rules separate columns and advertisements, adding visual structure to the page.
+180                                                  THE ETUDE.
+
+"What Can't be Cured Must be Endured."
+
+THIS, FOR YEARS, HAS BEEN THE CHARITABLE VIEW TAKEN OF THE GREAT NUISANCE,
+PIANO DRUMMING.
+
+BUT THERE IS A CURE; IT HAS COME AT LAST.
+
+THE VIRGIL
+PRACTICE CLAVIER,
+A SILENT PIANO,
+
+Is actually BETTER than the Piano itself for learning to PLAY the PIANO. The Piano is for the musical performance, the Practice Clavier for the preparation.
+
+INEXPENSIVE.     PORTABLE.     DURABLE.
+
+AN INSTRUMENT
+
+FOR EVERY PLAYER who would practice when he chooses, what he chooses and as he chooses, without annoyance to anyone, and with no one to hear his pieces or to know how much or how little they are studied.
+
+FOR EVERY TEACHER who would have his pupils make rapid and intelligent progress in overcoming all of the technical difficulties of pianoforte playing.
+
+FOR EVERY PUPIL who would gain true artistic playing ability, with a perfect development of the requisite strength and endurance
+
+in the shortest possible time, and at the least possible expense.
+
+FOR EVERY SCHOOL in which the Piano is taught, where economy, the enjoyment of quiet and the effective public performance of its pupils are important considerations.
+
+FOR EVERY FAMILY that would be relieved of the unpleasantness of piano practice at home, and would have the children more interested in their music, and more appreciative of the pieces they learn.
+
+STYLE A, 7 OCTAVES, PRICE $54.00.     STYLE B, 5 OCTAVES, PRICE $44.00.
+
+CORRESPONDENCE SOLICITED with Teachers and Schools.
+
+Descriptive circulars sent free on application.                     Best and highest endorsements by the profession.
+
+For particulars address,
+THE VIRGIL PRACTICE CLAVIER,
+13 East 17th Street, New York City.
+
+BRANCH OFFICES:
+Room 682, Hotel Boylston, Cor. Tremont and Boylston Sts., Boston, Mass.
+1704 Chestnut Street, Philadelphia, Pa.
+
+O. DITSON & CO.'S NEW PUBLICATIONS.
+
+WHAT CHOIRS NEED.
+
+ANTHEM BOOKS.
+Emerson's Anthems of Praise, $1.00; per doz., $10.00.
+Perkins' Anthem Book, $1.25; per doz., $12.00.
+American Anthem Book, $1.25; per doz., $12.00.
+Order with Ditson's imprint.
+Dressler's Sacred Selections, $1.50; per doz., $15.00.
+Lang's Sec[tion?], Henshaw, $1.00; per doz., $9.00.
+Sanford, Palmer & Trowbridge, $1.00; per doz., $9.00.
+Vox Laudis, Ernest Leslie, $1.00; per doz., $9.00.
+Dower's Responses and Collections, 80 cts.; per doz., $7.20.
+Perkins' Easy Anthems, $1.00; per doz., $9.00.
+And many others.
+
+Please send for Lists and Descriptions.
+
+Singing Societies and Clubs Need
+CHORUS BOOKS, &c.
+Emerson's Chorus Book, $1.00.
+Perkins' Glee and Chorus Book, $1.00.
+A[gg?]..., [illegible items and smaller type listing various chorus and concert selections and prices; several names and titles are printed in small type across this column and are faint in the image].
+
+ANY BOOK MAILED FOR RETAIL PRICE.
+
+GOOD THINGS MUSICAL
+THAT ARE COMING IN THE FALL.
+
+Whatever they are, the music to perform them, to understand them, to enjoy them, will be found in the immense establishments of OLIVER DITSON & CO. who have on hand
+
+Concert Songs, Gospel Songs, Sacred Songs, School Songs, Sunday-school Songs, Comic Songs, College Songs, Jubilee Songs, Popular Songs, Choir and Congregational Music, Tone-sol-fa Music, Catholic Music, Anthems and Choruses, Part-Songs and Glees, Operas, Oratorios and Cantata Music, Collections of Music for Piano, Organ, and all other Instruments, and, in fact, every kind of Music that is made.
+
+All this is in the shape of sheet Music (3,000,000 pieces), Octavo Music (300,000 kinds), or for music collected in well-bound books (4000 kinds). Send for Lists, Catalogues, Descriptive Series and Advice. Any book mailed for retail price.
+
+SOME OF THE NEWEST BOOKS ARE. —
+Piano Classics, Classical Pianist, Young People's Classics, Song Classics, Soprano, Song Classics, Alto and Bass, Classic Tenor Songs. Each, $1.00. Very select and good music.
+
+Send the price of any book and receive it by return mail. The convenience of this arrangement is appreciated by thousands of customers.
+
+THE OLIVER DITSON & CO.
+SCHOOL MUSIC BOOKS.
+
+Faithful and Successful School Teachers use the Best Books, without regard to the interests of authors or publishers; and are great patrons of Ditson & Co.'s carefully made books, compiled by the best talent. For lists and descriptions, please correspond.
+
+KINDERGARTEN.
+Kindergarten Games, $1.25.  Kate D. Wiggin.  A Manual and Song Book for Kindergartens.
+Songs and Games for Little Ones, by Gertrude Walker and other authors. 25 cts.
+[Additional kindergarten titles and prices listed in small type; some lines faint in the image.]
+
+PRIMARY. The Youngest Note Readers.
+American School Music Readers. Book I, 25 cts.
+[Other primary and intermediate titles and prices, and short descriptions, printed in small type; parts are faint.]
+
+INTERMEDIATE AND GRAMMAR.
+United Voices, 50 cts., and Song Bells, 50 cts., both by L. O. Emerson, and books for the intermediate grades.
+
+THE HIGHER SCHOOLS.
+[Several titles and short descriptions for high-school and college music instruction; small type; many individual prices and short blurbs are printed in this column.]
+
+Specimen Copies of any of the above books mailed, post-paid, for the price named.
+
+O. DITSON & CO., Boston, Mass.
+C. H. DITSON & CO., 867 Broadway, New York.
+J. E. DITSON & CO., 1228 Chestnut St., Phila., Pa.
+
+Description of non-textual content:
+- The page is an old newspaper/advertisement page with decorative rule-lines and typographic ornamentation. There are ornamental symbols and small decorative crosses/dots framing "O. DITSON & CO.'S NEW PUBLICATIONS." and separating columns.
+- The top section has bold display typography announcing "THE VIRGIL PRACTICE CLAVIER" with thick rules above and below; the layout divides descriptive claims into left and right blocks with small ornamental corner marks.
+- The overall page is monochrome (black ink on aged paper) with some small smudging and faint areas in the lower-left and lower-right where tiny type runs together and is less legible.
+
+Note: Several lines of small-type items (particularly in the lower left and right columns listing many specific chorus, chorus-book, kindergarten and school titles and prices) are faint in the image and a few words are not fully legible; where the image is unclear those few items are indicated as faint or partially illegible above. If you would like, I can work from a higher-resolution crop of any specific column to transcribe those faint areas more precisely.
