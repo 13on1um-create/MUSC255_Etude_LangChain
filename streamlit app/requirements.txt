@@ -1,0 +1,6 @@
+langchain
+langgraph
+langchain_chroma
+langchain_openai
+langchain_core
+streamlit_pdf_viewer
