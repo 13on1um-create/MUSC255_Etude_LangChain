@@ -7,6 +7,7 @@ from typing import List, TypedDict
 from langchain_core.documents import Document
 from langchain_core.prompts import ChatPromptTemplate
 from langgraph.graph import START, StateGraph
+from pathlib import Path
 
 
 st.set_page_config(page_title='LLM RAG', page_icon='🔎')
@@ -31,6 +32,8 @@ else:
         embedding_function=embeddings,
         persist_directory='chroma-db'
     )
+
+    print(Path.cwd())
 
 
     class State(TypedDict):
