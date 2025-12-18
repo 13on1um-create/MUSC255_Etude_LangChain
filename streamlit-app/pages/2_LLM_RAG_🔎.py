@@ -33,7 +33,7 @@ else:
         persist_directory='chroma-db'
     )
 
-    print(Path.cwd())
+    st.write(Path.cwd())
 
 
     class State(TypedDict):
