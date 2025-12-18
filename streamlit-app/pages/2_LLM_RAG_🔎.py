@@ -29,7 +29,7 @@ else:
     vector_store = Chroma(
         collection_name='Etude_samples',
         embedding_function=embeddings,
-        persist_directory='streamlit-app/chroma-db'
+        persist_directory='chroma-db'
     )
 
 
