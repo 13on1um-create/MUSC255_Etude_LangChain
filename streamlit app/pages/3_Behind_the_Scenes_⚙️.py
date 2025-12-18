@@ -26,7 +26,7 @@ st.markdown(
     for the sample dataset in this project were further processed using OpenAI
     Vision to much more accurately extract text from and describe images within the
     magazines. The source code and processed text files are available 
-    [on GitHub]().
+    [on GitHub](https://github.com/13on1um-create/MUSC255_Etude_LangChain).
     ##### Answering Queries
     RAG (Retrieval-Augmented Generation) assists gpt-5-mini in calculating its
     response by pointing it towards roughly relevant chunks of text within the

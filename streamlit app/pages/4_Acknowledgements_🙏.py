@@ -39,8 +39,18 @@ st.markdown(
     > Consulted the results of this article to inform my choice of chunk size and also to educate myself on chunking in general.
 
     ### Acknowledgements
+    Thank you to Charlie Cross and Daniel Russo-Batterham sharing their expertise and 
+    consulting with me about this project. They were a huge help.
 
-    
-    
+    Thank you again to them, but especially to Professor Freedman, for making MUSC255
+    this semester such an intellectually stimulating and curious adventure for me.
+    I will forever aspire to be as hyped as Professor Freedman is about the things
+    that I'm passionate about. In the spirit of the intrepidity that he espouses, I
+    will probably continue expanding this project (with my own money this time) out of
+    simple interest for where it could go.
+
+    I'll see you all after break.
+
+    ♥♥
 """
 )
