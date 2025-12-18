@@ -30,10 +30,8 @@ else:
     vector_store = Chroma(
         collection_name='Etude_samples',
         embedding_function=embeddings,
-        persist_directory='chroma-db'
+        persist_directory=f'{Path.cwd()}/chroma-db'
     )
-
-    st.write(Path.cwd())
 
 
     class State(TypedDict):
