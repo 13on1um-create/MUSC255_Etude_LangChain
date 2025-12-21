@@ -3,14 +3,16 @@ import sys
 import base64
 import tempfile
 import glob
+from typing import List
 from openai import OpenAI
 from pdf2image import convert_from_path
  
 
-#enter API key; this code isn't meant to be ran or shown on the frontend
-#replace the string with the proper environment variable fetch os.environ.get("KEY_WHERE_API_KEY_IS_BEING_STORED") if this code is public-facing
+os.environ['OPENAI_API_KEY'] = input('Enter Openai API key: ')
+
+
 client = OpenAI(
-    api_key='openai-api-key'  
+    api_key=os.environ.get('OPENAI_API_KEY')
 ) 
 
 
@@ -34,7 +36,7 @@ def encode_image(image_path: str):
         return base64.b64encode(image_file.read()).decode('utf-8')
 
 
-def extract_text_from_openai_api(image_path: str):
+def extract_text_from_openai_api(image_path: str, openai_model: str):
     """
     Sends the base64-encoded image to the OpenAI API and extracts text
     """
@@ -42,7 +44,7 @@ def extract_text_from_openai_api(image_path: str):
     try:
         #yes this looks horrifying
         response = client.responses.create(
-            model="gpt-5-mini",
+            model=openai_model,
             input=[
                 {
                     "role": "user",
@@ -61,7 +63,7 @@ def extract_text_from_openai_api(image_path: str):
         return ""
  
 
-def process_pdf(pdf_path: str, output_txt_path: str):
+def process_pdf(pdf_path: str, output_txt_path: str, openai_model: str):
     """
     Converts each page of the PDF to an image, extracts text, and writes to a txt file
     """
@@ -82,7 +84,7 @@ def process_pdf(pdf_path: str, output_txt_path: str):
             image_path = temp_image.name
             image.save(image_path, "JPEG")
  
-        text = extract_text_from_openai_api(image_path)
+        text = extract_text_from_openai_api(image_path=image_path, openai_model=openai_model)
         extracted_text.append(text)
  
         #remove the temporary image file
@@ -101,6 +103,9 @@ def process_pdf(pdf_path: str, output_txt_path: str):
  
 
 def main():
+    """
+    For running main() via terminal input
+    """
     pdf_path = input('Enter the full path to the PDF file: ').strip()
  
     if not os.path.isfile(pdf_path):
@@ -116,10 +121,14 @@ def main():
     output_dir = os.path.dirname(pdf_path)
     output_txt_path = os.path.join(output_dir, f"{base_name}.txt")
 
-    process_pdf(pdf_path, output_txt_path)
+    process_pdf(pdf_path, output_txt_path, openai_model='gpt-5-mini')
  
  
-def main_specifyinput(pdf_path: str, txt_folder_path: str=''):
+def main_specifyinput(pdf_path: str, txt_folder_path: str='', openai_model: str='gpt-5-mini'):
+    """
+    For running main() via code instead of terminal input
+    """
+
     if not os.path.isfile(pdf_path):
         print(f'The path "{pdf_path}" does not exist or is not a file.')
         return
@@ -136,12 +145,35 @@ def main_specifyinput(pdf_path: str, txt_folder_path: str=''):
         output_dir = os.path.dirname(pdf_path)
         output_txt_path = os.path.join(output_dir, f"{base_name}.txt")
 
-    process_pdf(pdf_path, output_txt_path)
+    process_pdf(pdf_path, output_txt_path, openai_model=openai_model)
 
 
 def main2():
-    for pdf in glob.glob('documents/*'):
-        main_specifyinput(pdf_path=pdf, txt_folder_path="processed-documents")
+    """
+    For processing all the documents in the documents folder excluding the ones already present in processed-documents
+    """
+
+    def nums_in_string(string: str) -> int:
+        """
+        Returns all the numbers in the passed string concatenated into an integer
+        """
+        return int(''.join([char for char in string if char.isnumeric()]))
+    
+    def base_name(filepath: str) -> str:
+        """
+        Returns the name of the file in the filepath without all the folders preceding it
+        """
+        return os.path.splitext(os.path.basename(filepath))[0]
+    
+    dir = os.getcwd()
+    documents_folder: str = os.path.join(dir, 'MUSC255_Etude_LangChain/documents')
+    processed_documents_folder: str = os.path.join(dir, 'MUSC255_Etude_LangChain/processed-documents')
+
+    processed_document_ids: List[int] = [nums_in_string(base_name(filepath)) for filepath in glob.glob(f'{processed_documents_folder}/*')]
+    unprocessed_documents: List[str] = [filepath for filepath in glob.glob(f'{documents_folder}/*') if nums_in_string(base_name(filepath)) not in processed_document_ids]
+
+    for filepath in unprocessed_documents[:20]:
+        main_specifyinput(pdf_path=filepath, txt_folder_path=processed_documents_folder, openai_model='gpt-4o-mini')
 
 
 main2()

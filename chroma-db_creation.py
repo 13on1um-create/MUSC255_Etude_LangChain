@@ -9,7 +9,7 @@ from langchain_chroma import Chroma
 ONLY RUN THIS FILE ONCE.
 """
 
-os.environ["OPENAI_API_KEY"] = 'openai-api-key-here'
+# os.environ["OPENAI_API_KEY"] = 'openai-api-key-here'
 
 embeddings = OpenAIEmbeddings(model='text-embedding-3-large')
 
