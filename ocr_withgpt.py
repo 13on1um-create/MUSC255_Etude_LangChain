@@ -89,7 +89,7 @@ def process_pdf(pdf_path: str, output_txt_path: str, openai_model: str, dpi: int
             images = [pyvips.Image.new_from_file(pdf_path, dpi=dpi, page=i) for i in range(total_pages)]
         
         else:
-            images = convert_from_path(pdf_path, dpi=500)
+            images = convert_from_path(pdf_path, dpi=dpi)
             total_pages = len(images)
     
     except Exception as e:
