@@ -18,7 +18,7 @@ def update_progress(progress: float):
 
 
 dir: str = os.getcwd()
-documents_folder: str = os.path.join(dir, 'MUSC255_Etude_LangChain/documents')
+documents_folder: str = os.path.join(dir, 'documents')
 existing_documents: List[str] = glob.glob(f'{documents_folder}/*')
 existing_ids: List[int] = []
 
