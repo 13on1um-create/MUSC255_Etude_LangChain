@@ -3,17 +3,30 @@ import sys
 import base64
 import tempfile
 import glob
+
+# pyvips is excluded from requirements.txt because it requires a pretty involved setup; pdf2image is the convenient backup, but is hugely slower and hugely hugely more memory-intensive for large PDFs
+try:
+    import pyvips
+    has_pyvips = True
+except ImportError:
+    from pdf2image import convert_from_path
+    has_pyvips = False
+
 from typing import List
 from openai import OpenAI
-from pdf2image import convert_from_path
- 
+
 
 os.environ['OPENAI_API_KEY'] = input('Enter Openai API key: ')
 
 
 client = OpenAI(
     api_key=os.environ.get('OPENAI_API_KEY')
-) 
+)
+
+
+# if pdf2image is being used, it might exceed Pillow's default anti-DDOS max pixels limit for large PDFs
+from PIL import Image
+Image.MAX_IMAGE_PIXELS = 16000 * 16000
 
 
 def update_progress(progress: float):
@@ -63,14 +76,22 @@ def extract_text_from_openai_api(image_path: str, openai_model: str):
         return ""
  
 
-def process_pdf(pdf_path: str, output_txt_path: str, openai_model: str):
+def process_pdf(pdf_path: str, output_txt_path: str, openai_model: str, dpi: int=300):
     """
     Converts each page of the PDF to an image, extracts text, and writes to a txt file
     """
     try:
         print("Converting PDF to images...")
-        images = convert_from_path(pdf_path, dpi=500)
-        total_pages = len(images)
+
+        if has_pyvips:
+            initial_convert = pyvips.Image.new_from_file(pdf_path)
+            total_pages: int = initial_convert.get("n-pages")
+            images = [pyvips.Image.new_from_file(pdf_path, dpi=dpi, page=i) for i in range(total_pages)]
+        
+        else:
+            images = convert_from_path(pdf_path, dpi=500)
+            total_pages = len(images)
+    
     except Exception as e:
         print(f"Error converting PDF to images: {e}")
         return
@@ -79,10 +100,16 @@ def process_pdf(pdf_path: str, output_txt_path: str, openai_model: str):
  
     print("Extracting text from images...")
     update_progress(0)
+
     for current_page_num, image in enumerate(images, start=1):
         with tempfile.NamedTemporaryFile(suffix=".jpg", delete=False) as temp_image:
             image_path = temp_image.name
-            image.save(image_path, "JPEG")
+
+            if has_pyvips:
+                image.write_to_file(image_path)
+            
+            else:
+                image.save(image_path, "JPEG")
  
         text = extract_text_from_openai_api(image_path=image_path, openai_model=openai_model)
         extracted_text.append(text)
@@ -139,6 +166,7 @@ def main_specifyinput(pdf_path: str, txt_folder_path: str='', openai_model: str=
     
     base_name = os.path.splitext(os.path.basename(pdf_path))[0]
 
+    # if a dedicated txt files folder is passed in, put txt files in that folder, otherwise put them in the same folder as the PDF
     if len(txt_folder_path) != 0:
         output_txt_path = f"{txt_folder_path}/{base_name}.txt"
     else:
@@ -150,7 +178,7 @@ def main_specifyinput(pdf_path: str, txt_folder_path: str='', openai_model: str=
 
 def main2():
     """
-    For processing all the documents in the documents folder excluding the ones already present in processed-documents
+    For processing some or all of the documents in the documents folder excluding the ones already present in processed-documents
     """
 
     def nums_in_string(string: str) -> int:
@@ -166,14 +194,22 @@ def main2():
         return os.path.splitext(os.path.basename(filepath))[0]
     
     dir = os.getcwd()
-    documents_folder: str = os.path.join(dir, 'MUSC255_Etude_LangChain/documents')
-    processed_documents_folder: str = os.path.join(dir, 'MUSC255_Etude_LangChain/processed-documents')
+    documents_folder: str = os.path.join(dir, 'documents')
+    processed_documents_folder: str = os.path.join(dir, 'processed-documents')
 
     processed_document_ids: List[int] = [nums_in_string(base_name(filepath)) for filepath in glob.glob(f'{processed_documents_folder}/*')]
     unprocessed_documents: List[str] = [filepath for filepath in glob.glob(f'{documents_folder}/*') if nums_in_string(base_name(filepath)) not in processed_document_ids]
 
-    for filepath in unprocessed_documents[:20]:
-        main_specifyinput(pdf_path=filepath, txt_folder_path=processed_documents_folder, openai_model='gpt-4o-mini')
+    n = input(f'\nHow many documents to process? Number of remaining documents: {len(unprocessed_documents)}\n')
+
+    try:
+        n = int(n)
+    except:
+        return
+
+    for index, filepath in enumerate(unprocessed_documents[:n], start=1):
+        print(f'\nProcessing {filepath} (file {index}/{n})...')
+        main_specifyinput(pdf_path=filepath, txt_folder_path=processed_documents_folder, openai_model='gpt-5-mini')
 
 
 main2()
