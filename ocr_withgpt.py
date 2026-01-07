@@ -3,17 +3,44 @@ import sys
 import base64
 import tempfile
 import glob
+from typing import List
+from openai import OpenAI
 
-# pyvips is excluded from requirements.txt because it requires a pretty involved setup; pdf2image is the convenient backup, but is hugely slower and hugely hugely more memory-intensive for large PDFs
+"""
+use pyvips for pdf processing if it's installed, otherwise use pdf2image. 
+pyvips is excluded from requirements.txt because it requires manual setup outside of pip, but it's significantly faster and less memory-intensive than pdf2image, especially for larger PDFs.
+to use pyvips, download the latest "vips-dev-w64-all" file from https://github.com/libvips/build-win64-mxe/releases and add the bin folder to your PATH, then run "pip install pyvips".
+try restarting your machine if the except block still triggers.
+"""
 try:
     import pyvips
     has_pyvips = True
-except ImportError:
+
+except ModuleNotFoundError:
     from pdf2image import convert_from_path
     has_pyvips = False
 
-from typing import List
-from openai import OpenAI
+# if pyvips is installed but libvips (the library pyvips wraps around) can't be found by pyvips, attempt to manually inform pyvips of the path to libvips; if the import still fails (which it usually does), use pdf2image
+except OSError:
+    
+    while True:
+        vip_path: str = input('libvips/bin was not found in PATH. Paste the path to your libvips bin: ')
+
+        try:
+            os.add_dll_directory(vip_path)
+            break
+        except OSError:
+            print(f'"{vip_path}" is not a valid file path.')
+
+    try:
+        import pyvips  
+        has_pyvips = True
+    
+    except:
+        import traceback
+        print(f'{traceback.format_exc()}\n\n^ Error importing pyvips, will use pdf2image instead.')
+        from pdf2image import convert_from_path
+        has_pyvips = False
 
 
 os.environ['OPENAI_API_KEY'] = input('Enter Openai API key: ')
