@@ -9,8 +9,18 @@ from openai import OpenAI
 """
 use pyvips for pdf processing if it's installed, otherwise use pdf2image. 
 pyvips is excluded from requirements.txt because it requires manual setup outside of pip, but it's significantly faster and less memory-intensive than pdf2image, especially for larger PDFs.
-to use pyvips, download the latest "vips-dev-w64-all" file from https://github.com/libvips/build-win64-mxe/releases and add the bin folder to your PATH, then run "pip install pyvips".
-try restarting your machine if the except block still triggers.
+
+to install pyvips:
+- download the latest "vips-dev-w64-all" zip file from https://github.com/libvips/build-win64-mxe/releases 
+- extract all (anywhere you want)
+- add the filepath of the "bin" folder to your PATH:
+    - click through the folder until you find "bin"
+    - copy the (absolute) file path of the "bin" folder
+    - windows search "environment variables" and click "edit the system environment varaibles" or something similar. then click on "Environment Variables"
+    - find "PATH" in the "System variables" section, click "Edit", then "New", then add the file path of the "bin" folder and move it above anything with libvips or pyvips as a dependency
+    - apply changes
+- restart your machine
+- run "pip install pyvips" in your desired python environment
 """
 try:
     import pyvips
